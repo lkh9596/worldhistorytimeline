@@ -1,0 +1,202 @@
+/* === Base Styles === */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: #f7f8fa;
+  padding: 40px 20px;
+  margin: 0;
+  color: #222;
+}
+
+h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: #1a1a1a;
+  letter-spacing: -0.5px;
+  text-align: left;
+  position: relative;
+  display: inline-block;
+  border-bottom: 6px solid;
+  border-image: linear-gradient(90deg, #007bff, #00d4ff) 1;
+  padding-bottom: 6px;
+}
+
+/* === Country Selector === */
+#country-selector {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  max-width: 640px;
+  margin-bottom: 40px;
+  position: relative;
+  z-index: 100;
+}
+
+label {
+  font-weight: 600;
+  font-size: 1rem;
+  display: block;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+#country-select {
+  width: 100%;
+  font-size: 1em;
+}
+
+/* === Button === */
+button {
+  margin-top: 16px;
+  padding: 10px 16px;
+  font-size: 1em;
+  font-weight: 500;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 123, 255, 0.2);
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* === Timeline Wrapper === */
+.timeline-wrapper {
+  overflow-x: auto;
+  overflow-y: visible;
+  position: relative;
+  border-top: 2px solid #ccc;
+  padding-top: 10px;
+  margin-top: 30px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+}
+
+/* === Table Styling === */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 800px;
+}
+
+th, td {
+  border: 1px solid #e0e0e0;
+  padding: 14px;
+  vertical-align: top;
+  text-align: left;
+  font-size: 0.95rem;
+  background-color: white;
+}
+
+thead {
+  background: #f1f3f5;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+tbody tr:nth-child(even) {
+  background: #fafafa;
+}
+
+th img {
+  height: 16px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+/* === Choices.js Styling Overrides === */
+.choices {
+  position: relative;
+  z-index: 1000;
+  width: 100%;
+  max-width: 600px;
+}
+
+.choices__inner {
+  border: 1px solid #ccc !important;
+  border-radius: 6px;
+  padding: 10px;
+  min-height: 44px;
+  background-color: #fff;
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 1rem;
+}
+
+.choices__list--dropdown {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  min-width: 100%;
+  box-sizing: border-box;
+  z-index: 2000;
+  border: 1px solid #ccc;
+  border-top: none;
+  background-color: white;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.05);
+  overflow: auto;
+  border-radius: 0 0 6px 6px;
+}
+
+.choices__list--dropdown .choices__item {
+  white-space: normal;
+  padding: 10px;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.choices__list--dropdown .choices__item--selectable:hover {
+  background-color: #f0f0f0;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 24px 12px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+    text-align: center;
+  }
+
+  #country-selector {
+    padding: 16px;
+    margin-bottom: 24px;
+    box-shadow: none;
+  }
+
+  .choices {
+    max-width: 100%;
+  }
+
+  .choices__inner {
+    font-size: 0.95rem;
+  }
+
+  button {
+    width: 100%;
+    font-size: 1rem;
+    padding: 12px;
+  }
+
+  .timeline-wrapper {
+    border-radius: 0;
+    padding: 0;
+  }
+
+  table th,
+  table td {
+    padding: 10px;
+    font-size: 0.9rem;
+  }
+}

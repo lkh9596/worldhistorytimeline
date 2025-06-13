@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>World History Timeline</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>World History Timeline</h1>
+
+  <div id="country-selector">
+    <label for="country-select"></label><br />
+    <select id="country-select" multiple></select>
+    <br />
+    <button onclick="loadSelectedTimeline()">Show Timeline</button>
+  </div>
+
+  <div class="timeline-wrapper">
+    <table id="timeline-table">
+      <thead id="timeline-head"></thead>
+      <tbody id="timeline-body"></tbody>
+    </table>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
