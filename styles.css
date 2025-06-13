@@ -201,26 +201,27 @@ th img {
   }
 }
 
-.timeline-wrapper table {
-  border-collapse: collapse;
+/* Ensure the table container scrolls correctly */
+.timeline-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* important for iOS smooth scroll */
   width: 100%;
 }
 
-.timeline-wrapper th,
-.timeline-wrapper td {
-  padding: 12px;
-  white-space: nowrap;
-  font-size: 0.95rem;
+/* Ensure table is wide enough */
+.timeline-wrapper table {
+  border-collapse: collapse;
+  width: max-content;
+  min-width: 100%;
 }
 
-/* 🧲 Make the first column sticky */
+/* Sticky Year Column */
 .timeline-wrapper td:first-child,
 .timeline-wrapper th:first-child {
   position: sticky;
   left: 0;
-  background: #f9f9f9;
-  z-index: 2;
-  min-width: 80px;
+  background-color: #fff; /* must be non-transparent */
+  z-index: 10;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.04);
   font-weight: bold;
 }
