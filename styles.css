@@ -1,4 +1,3 @@
-/* === Base Styles === */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
 
 body {
@@ -70,7 +69,7 @@ button:hover {
 /* === Timeline Wrapper === */
 .timeline-wrapper {
   overflow-x: auto;
-  overflow-y: visible;
+  -webkit-overflow-scrolling: touch;
   position: relative;
   border-top: 2px solid #ccc;
   padding-top: 10px;
@@ -78,13 +77,14 @@ button:hover {
   background: white;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+  width: 100%;
 }
 
 /* === Table Styling === */
-table {
+.timeline-wrapper table {
   border-collapse: collapse;
-  width: 100%;
-  min-width: 800px;
+  width: max-content;
+  min-width: 100%;
 }
 
 th, td {
@@ -94,13 +94,14 @@ th, td {
   text-align: left;
   font-size: 0.95rem;
   background-color: white;
+  white-space: nowrap;
 }
 
 thead {
   background: #f1f3f5;
   position: sticky;
   top: 0;
-  z-index: 1;
+  z-index: 5;
 }
 
 tbody tr:nth-child(even) {
@@ -111,6 +112,17 @@ th img {
   height: 16px;
   margin-right: 6px;
   vertical-align: middle;
+}
+
+/* ✅ Sticky first column */
+.timeline-wrapper th:first-child,
+.timeline-wrapper td:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 10;
+  background-color: #fff;
+  font-weight: bold;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.04);
 }
 
 /* === Choices.js Styling Overrides === */
@@ -159,6 +171,7 @@ th img {
   background-color: #f0f0f0;
 }
 
+/* === Responsive Adjustments === */
 @media (max-width: 600px) {
   body {
     padding: 24px 12px;
@@ -199,29 +212,4 @@ th img {
     padding: 10px;
     font-size: 0.9rem;
   }
-}
-
-/* Ensure the table container scrolls correctly */
-.timeline-wrapper {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch; /* important for iOS smooth scroll */
-  width: 100%;
-}
-
-/* Ensure table is wide enough */
-.timeline-wrapper table {
-  border-collapse: collapse;
-  width: max-content;
-  min-width: 100%;
-}
-
-/* Sticky Year Column */
-.timeline-wrapper td:first-child,
-.timeline-wrapper th:first-child {
-  position: sticky;
-  left: 0;
-  background-color: #fff; /* must be non-transparent */
-  z-index: 10;
-  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.04);
-  font-weight: bold;
 }
