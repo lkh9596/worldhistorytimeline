@@ -200,3 +200,27 @@ th img {
     font-size: 0.9rem;
   }
 }
+
+.timeline-wrapper table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.timeline-wrapper th,
+.timeline-wrapper td {
+  padding: 12px;
+  white-space: nowrap;
+  font-size: 0.95rem;
+}
+
+/* 🧲 Make the first column sticky */
+.timeline-wrapper td:first-child,
+.timeline-wrapper th:first-child {
+  position: sticky;
+  left: 0;
+  background: #f9f9f9;
+  z-index: 2;
+  min-width: 80px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.04);
+  font-weight: bold;
+}
