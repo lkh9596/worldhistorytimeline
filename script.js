@@ -54,7 +54,13 @@ function loadSelectedTimeline() {
   const selected = choices.getValue(true);
   if (!selected.length) return alert("Please select at least one country.");
   fetchAndRender(selected);
+
+  // ✅ Collapse the dropdown after showing the timeline
+  if (choices && typeof choices.hideDropdown === 'function') {
+    choices.hideDropdown();
+  }
 }
+
 
 async function fetchAndRender(keys) {
   const allData = {};
