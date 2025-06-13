@@ -55,12 +55,10 @@ function loadSelectedTimeline() {
   if (!selected.length) return alert("Please select at least one country.");
   fetchAndRender(selected);
 
-  // ✅ Collapse the dropdown after showing the timeline
-  if (choices && typeof choices.hideDropdown === 'function') {
-    choices.hideDropdown();
-  }
+  // ✅ Collapse dropdown on all mobile browsers
+  const inputEl = document.querySelector('.choices__inner input');
+  if (inputEl) inputEl.blur();
 }
-
 
 async function fetchAndRender(keys) {
   const allData = {};
