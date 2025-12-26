@@ -1,82 +1,21 @@
 [
-  {
-    "year": -3000,
-    "event": "Earliest civilizations in Peru such as Norte Chico develop"
-  },
-  {
-    "year": 1438,
-    "event": "Rise of Inca Empire under Pachacuti"
-  },
-  {
-    "year": 1532,
-    "event": "Spanish conquistadors led by Francisco Pizarro capture Atahualpa"
-  },
-  {
-    "year": 1535,
-    "event": "Lima founded by Pizarro as capital of the Spanish colony"
-  },
-  {
-    "year": 1542,
-    "event": "Viceroyalty of Peru established by the Spanish crown"
-  },
-  {
-    "year": 1780,
-    "event": "Túpac Amaru II leads Indigenous uprising against Spanish rule"
-  },
-  {
-    "year": 1821,
-    "event": "General José de San Martín proclaims Peruvian independence"
-  },
-  {
-    "year": 1824,
-    "event": "Battle of Ayacucho secures independence from Spain"
-  },
-  {
-    "year": 1879,
-    "event": "Peru enters War of the Pacific against Chile"
-  },
-  {
-    "year": 1883,
-    "event": "Peru defeated; loses territory to Chile"
-  },
-  {
-    "year": 1948,
-    "event": "Military coup led by General Manuel Odría"
-  },
-  {
-    "year": 1968,
-    "event": "Left-wing military government nationalizes key industries"
-  },
-  {
-    "year": 1980,
-    "event": "Return to democracy; Shining Path insurgency begins"
-  },
-  {
-    "year": 1990,
-    "event": "Alberto Fujimori elected president amid economic crisis"
-  },
-  {
-    "year": 1992,
-    "event": "Fujimori dissolves Congress and assumes authoritarian powers"
-  },
-  {
-    "year": 2000,
-    "event": "Fujimori resigns and flees to Japan after corruption scandals"
-  },
-  {
-    "year": 2001,
-    "event": "Democratic elections restore constitutional rule"
-  },
-  {
-    "year": 2016,
-    "event": "Pedro Pablo Kuczynski elected; later resigns amid scandal"
-  },
-  {
-    "year": 2021,
-    "event": "Pedro Castillo elected president amid deep polarization"
-  },
-  {
-    "year": 2022,
-    "event": "Castillo impeached and arrested; Dina Boluarte becomes president"
-  }
+  { "year": -14000, "event": "Earliest human presence in present-day Peru" },
+  { "year": -3000, "event": "Early coastal civilizations develop agriculture and urban centers" },
+  { "year": -1800, "event": "Norte Chico civilization builds some of the Americas’ oldest cities" },
+  { "year": 100, "event": "Moche culture flourishes along the northern coast" },
+  { "year": 600, "event": "Wari state expands across the central Andes" },
+  { "year": 900, "event": "Tiwanaku influence spreads into southern Peru" },
+  { "year": 1200, "event": "Inca civilization emerges in the Cusco region" },
+  { "year": 1400, "event": "Inca Empire expands to dominate much of western South America" },
+  { "year": 1532, "event": "Spanish forces capture Inca ruler Atahualpa" },
+  { "year": 1535, "event": "Lima is founded as the colonial capital" },
+  { "year": 1542, "event": "Viceroyalty of Peru is established by Spain" },
+  { "year": 1572, "event": "Last Inca resistance is defeated" },
+  { "year": 1780, "event": "Túpac Amaru II leads major Indigenous rebellion" },
+  { "year": 1821, "event": "Peru declares independence from Spain" },
+  { "year": 1824, "event": "Spanish rule ends after decisive battles" },
+  { "year": 1879, "event": "War of the Pacific weakens Peru and alters borders" },
+  { "year": 1920, "event": "Indigenous identity gains recognition in national culture" },
+  { "year": 1968, "event": "Military government introduces land and social reforms" },
+  { "year": 2000, "event": "Democratic order is restored after political crisis" }
 ]

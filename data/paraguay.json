@@ -1,74 +1,16 @@
 [
-  {
-    "year": 1537,
-    "event": "Foundation of Asunción by Spanish conquistadors"
-  },
-  {
-    "year": 1600,
-    "event": "Jesuit missions established among the Guaraní"
-  },
-  {
-    "year": 1767,
-    "event": "Expulsion of Jesuits by Spanish crown"
-  },
-  {
-    "year": 1811,
-    "event": "Paraguay declares independence from Spain"
-  },
-  {
-    "year": 1814,
-    "event": "José Gaspar Rodríguez de Francia becomes dictator"
-  },
-  {
-    "year": 1840,
-    "event": "Francia dies; Paraguay becomes more outward-looking"
-  },
-  {
-    "year": 1862,
-    "event": "Francisco Solano López becomes president"
-  },
-  {
-    "year": 1864,
-    "event": "War of the Triple Alliance begins against Brazil, Argentina, and Uruguay"
-  },
-  {
-    "year": 1870,
-    "event": "Paraguay defeated; loses large portion of population and territory"
-  },
-  {
-    "year": 1876,
-    "event": "Peace treaties formalize Paraguay’s postwar borders"
-  },
-  {
-    "year": 1932,
-    "event": "Chaco War with Bolivia begins over Gran Chaco region"
-  },
-  {
-    "year": 1935,
-    "event": "Chaco War ends with Paraguayan victory"
-  },
-  {
-    "year": 1954,
-    "event": "General Alfredo Stroessner seizes power in a coup"
-  },
-  {
-    "year": 1989,
-    "event": "Stroessner overthrown after 35-year dictatorship"
-  },
-  {
-    "year": 1992,
-    "event": "New democratic constitution adopted"
-  },
-  {
-    "year": 2008,
-    "event": "Fernando Lugo elected, ending decades of Colorado Party rule"
-  },
-  {
-    "year": 2012,
-    "event": "Lugo impeached; political crisis ensues"
-  },
-  {
-    "year": 2023,
-    "event": "Santiago Peña elected president, Colorado Party returns to power"
-  }
+  { "year": -10000, "event": "Earliest human presence in present-day Paraguay" },
+  { "year": -2000, "event": "Guaraní peoples establish villages and agriculture" },
+  { "year": 1000, "event": "Guaraní culture spreads across the Paraguay River basin" },
+  { "year": 1524, "event": "Spanish explorers enter the Paraguay River region" },
+  { "year": 1537, "event": "Asunción is founded, becoming a colonial hub" },
+  { "year": 1600, "event": "Jesuit missions expand among the Guaraní" },
+  { "year": 1767, "event": "Jesuits are expelled, ending the mission system" },
+  { "year": 1811, "event": "Paraguay declares independence from Spain" },
+  { "year": 1840, "event": "Strong centralized state consolidates power" },
+  { "year": 1864, "event": "War of the Triple Alliance begins" },
+  { "year": 1870, "event": "War ends, devastating population and economy" },
+  { "year": 1932, "event": "Chaco War with Bolivia reshapes national territory" },
+  { "year": 1954, "event": "Long military dictatorship begins" },
+  { "year": 1989, "event": "Dictatorship ends and democratic transition begins" }
 ]

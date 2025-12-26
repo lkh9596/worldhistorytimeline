@@ -1,94 +1,31 @@
 [
-  {
-    "year": -10000,
-    "event": "Earliest evidence of human habitation in Colombia"
-  },
-  {
-    "year": 800,
-    "event": "Tairona and Muisca cultures flourish in northern Andes"
-  },
-  {
-    "year": 1499,
-    "event": "Spanish explorers reach Colombian coast"
-  },
-  {
-    "year": 1538,
-    "event": "Gonzalo Jiménez de Quesada founds Bogotá"
-  },
-  {
-    "year": 1717,
-    "event": "Viceroyalty of New Granada established with Bogotá as capital"
-  },
-  {
-    "year": 1810,
-    "event": "Start of Colombian independence movement with formation of local juntas"
-  },
-  {
-    "year": 1819,
-    "event": "Simón Bolívar defeats Spanish forces at Battle of Boyacá"
-  },
-  {
-    "year": 1819,
-    "event": "Gran Colombia established including Colombia, Venezuela, Ecuador, and Panama"
-  },
-  {
-    "year": 1831,
-    "event": "Dissolution of Gran Colombia; Republic of New Granada formed"
-  },
-  {
-    "year": 1858,
-    "event": "Name changed to Granadine Confederation"
-  },
-  {
-    "year": 1863,
-    "event": "Becomes United States of Colombia under liberal constitution"
-  },
-  {
-    "year": 1886,
-    "event": "Conservative constitution creates Republic of Colombia"
-  },
-  {
-    "year": 1899,
-    "event": "Thousand Days' War begins between Liberals and Conservatives"
-  },
-  {
-    "year": 1903,
-    "event": "Panama secedes from Colombia with U.S. support"
-  },
-  {
-    "year": 1948,
-    "event": "Assassination of Jorge Eliécer Gaitán triggers 'La Violencia'"
-  },
-  {
-    "year": 1958,
-    "event": "National Front agreement alternates power between parties to end civil strife"
-  },
-  {
-    "year": 1964,
-    "event": "Formation of FARC and ELN guerrilla groups"
-  },
-  {
-    "year": 1985,
-    "event": "Palace of Justice siege by M-19 ends in tragedy"
-  },
-  {
-    "year": 1991,
-    "event": "New democratic constitution adopted"
-  },
-  {
-    "year": 2002,
-    "event": "Álvaro Uribe elected president; tough stance on guerrilla groups"
-  },
-  {
-    "year": 2016,
-    "event": "Peace agreement signed between Colombian government and FARC"
-  },
-  {
-    "year": 2018,
-    "event": "Iván Duque elected president; critic of peace deal"
-  },
-  {
-    "year": 2022,
-    "event": "Gustavo Petro elected as Colombia’s first leftist president"
-  }
+  { "year": -13000, "event": "Earliest human presence in present-day Colombia" },
+  { "year": -5000, "event": "Early agriculture and permanent settlements develop" },
+  { "year": -1000, "event": "Advanced goldworking cultures emerge" },
+  { "year": 200, "event": "Zenú culture develops large-scale hydraulic systems" },
+  { "year": 600, "event": "San Agustín culture creates monumental stone sculptures" },
+  { "year": 800, "event": "Tairona societies flourish in the Sierra Nevada de Santa Marta" },
+  { "year": 1000, "event": "Muisca Confederation dominates the central highlands" },
+  { "year": 1499, "event": "Spanish explorers reach the Caribbean coast" },
+  { "year": 1525, "event": "Santa Marta is founded by the Spanish" },
+  { "year": 1533, "event": "Cartagena is founded as a major colonial port" },
+  { "year": 1537, "event": "Spanish conquest of the Muisca heartland" },
+  { "year": 1538, "event": "Bogotá is founded as a colonial capital" },
+  { "year": 1549, "event": "Royal Audiencia consolidates colonial administration" },
+  { "year": 1600, "event": "Cartagena becomes a key fortified Atlantic port" },
+  { "year": 1717, "event": "Viceroyalty of New Granada is created" },
+  { "year": 1781, "event": "Comunero Revolt challenges colonial rule" },
+  { "year": 1810, "event": "Independence movement begins in Bogotá" },
+  { "year": 1819, "event": "Battle of Boyacá secures independence victory" },
+  { "year": 1821, "event": "Gran Colombia is established" },
+  { "year": 1830, "event": "Gran Colombia dissolves into separate states" },
+  { "year": 1851, "event": "Slavery is abolished" },
+  { "year": 1886, "event": "Centralized Republic of Colombia is established" },
+  { "year": 1899, "event": "Thousand Days’ War devastates the country" },
+  { "year": 1903, "event": "Panama secedes from Colombia" },
+  { "year": 1948, "event": "Bogotazo triggers a decade of political violence" },
+  { "year": 1958, "event": "National Front power-sharing stabilizes politics" },
+  { "year": 1964, "event": "FARC guerrilla movement is founded" },
+  { "year": 1991, "event": "New constitution expands rights and decentralization" },
+  { "year": 2016, "event": "Peace accord with FARC ends major armed conflict" }
 ]

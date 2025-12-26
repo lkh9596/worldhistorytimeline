@@ -1,86 +1,19 @@
 [
-  {
-    "year": 1498,
-    "event": "Christopher Columbus reaches the Venezuelan coast during his third voyage"
-  },
-  {
-    "year": 1528,
-    "event": "Welser banking family of Germany gains control of the colony under Spanish crown"
-  },
-  {
-    "year": 1577,
-    "event": "Caracas established as capital of Province of Venezuela"
-  },
-  {
-    "year": 1717,
-    "event": "Venezuela becomes part of the Viceroyalty of New Granada"
-  },
-  {
-    "year": 1810,
-    "event": "Venezuelan War of Independence begins with formation of local junta"
-  },
-  {
-    "year": 1811,
-    "event": "Venezuela declares independence from Spain"
-  },
-  {
-    "year": 1819,
-    "event": "Simón Bolívar helps form Gran Colombia including Venezuela"
-  },
-  {
-    "year": 1830,
-    "event": "Venezuela separates from Gran Colombia and becomes independent republic"
-  },
-  {
-    "year": 1908,
-    "event": "Dictatorship of Juan Vicente Gómez begins"
-  },
-  {
-    "year": 1935,
-    "event": "Death of Gómez; beginning of more democratic reforms"
-  },
-  {
-    "year": 1958,
-    "event": "Return to democracy after fall of Pérez Jiménez dictatorship"
-  },
-  {
-    "year": 1973,
-    "event": "Oil boom fuels economic prosperity"
-  },
-  {
-    "year": 1989,
-    "event": "Caracazo riots erupt over austerity measures"
-  },
-  {
-    "year": 1992,
-    "event": "Failed coup attempt by Hugo Chávez"
-  },
-  {
-    "year": 1998,
-    "event": "Hugo Chávez elected president, begins Bolivarian Revolution"
-  },
-  {
-    "year": 2002,
-    "event": "Brief coup removes Chávez from power; he is restored within days"
-  },
-  {
-    "year": 2013,
-    "event": "Chávez dies; Nicolás Maduro becomes president"
-  },
-  {
-    "year": 2015,
-    "event": "Opposition wins control of National Assembly"
-  },
-  {
-    "year": 2017,
-    "event": "Controversial Constituent Assembly formed, overriding legislature"
-  },
-  {
-    "year": 2019,
-    "event": "Juan Guaidó declares himself interim president; major international crisis"
-  },
-  {
-    "year": 2023,
-    "event": "Economic and political crisis continues with ongoing sanctions and migration"
-  }
+  { "year": -13000, "event": "Earliest human presence in present-day Venezuela" },
+  { "year": -2000, "event": "Indigenous societies develop agriculture and river settlements" },
+  { "year": 1000, "event": "Carib and Arawak cultures dominate coastal and inland regions" },
+  { "year": 1498, "event": "Christopher Columbus reaches the Venezuelan coast" },
+  { "year": 1522, "event": "First permanent Spanish settlements are established" },
+  { "year": 1567, "event": "Caracas is founded as a colonial city" },
+  { "year": 1600, "event": "Cocoa plantations drive the colonial economy" },
+  { "year": 1728, "event": "Guipuzcoan Company monopolizes colonial trade" },
+  { "year": 1810, "event": "Independence movement begins in Caracas" },
+  { "year": 1811, "event": "Venezuela declares independence from Spain" },
+  { "year": 1821, "event": "Battle of Carabobo secures independence" },
+  { "year": 1821, "event": "Venezuela becomes part of Gran Colombia" },
+  { "year": 1830, "event": "Venezuela separates from Gran Colombia" },
+  { "year": 1908, "event": "Centralized authoritarian rule consolidates power" },
+  { "year": 1922, "event": "Major oil discoveries transform the economy" },
+  { "year": 1958, "event": "Democratic civilian rule is established" },
+  { "year": 1999, "event": "New constitution reshapes the political system" }
 ]

@@ -1,86 +1,15 @@
 [
-  {
-    "year": 1499,
-    "event": "First European exploration by Spanish"
-  },
-  {
-    "year": 1616,
-    "event": "Dutch establish first permanent trading post"
-  },
-  {
-    "year": 1796,
-    "event": "British capture Dutch colonies during Napoleonic Wars"
-  },
-  {
-    "year": 1814,
-    "event": "Dutch formally cede Guyana to Britain"
-  },
-  {
-    "year": 1831,
-    "event": "Formation of British Guiana by unifying Dutch colonies"
-  },
-  {
-    "year": 1834,
-    "event": "Abolition of slavery in British Empire"
-  },
-  {
-    "year": 1838,
-    "event": "Indentured laborers from India begin arriving"
-  },
-  {
-    "year": 1889,
-    "event": "Border dispute with Venezuela begins"
-  },
-  {
-    "year": 1928,
-    "event": "New British constitution imposed, reducing local autonomy"
-  },
-  {
-    "year": 1953,
-    "event": "First elections under universal suffrage; British suspend constitution"
-  },
-  {
-    "year": 1961,
-    "event": "Cheddi Jagan becomes premier under self-government"
-  },
-  {
-    "year": 1966,
-    "event": "Guyana gains independence from Britain on May 26"
-  },
-  {
-    "year": 1970,
-    "event": "Declared a Cooperative Republic under Forbes Burnham"
-  },
-  {
-    "year": 1978,
-    "event": "Jonestown Massacre: 918 people die in mass murder-suicide"
-  },
-  {
-    "year": 1980,
-    "event": "New constitution creates executive presidency"
-  },
-  {
-    "year": 1985,
-    "event": "Desmond Hoyte becomes president after Burnham’s death"
-  },
-  {
-    "year": 1992,
-    "event": "Cheddi Jagan wins first free and fair election"
-  },
-  {
-    "year": 1997,
-    "event": "Janet Jagan becomes Guyana’s first female president"
-  },
-  {
-    "year": 2015,
-    "event": "David Granger elected president, ending PPP's long rule"
-  },
-  {
-    "year": 2020,
-    "event": "Irfaan Ali becomes president after disputed election"
-  },
-  {
-    "year": 2022,
-    "event": "Guyana experiences rapid economic growth due to offshore oil production"
-  }
+  { "year": -9000, "event": "Earliest human presence in present-day Guyana" },
+  { "year": -3000, "event": "Indigenous Arawak and Carib societies develop river-based settlements" },
+  { "year": 1000, "event": "Indigenous trade networks connect the Guianas and Amazon basin" },
+  { "year": 1498, "event": "European explorers sight the Guyana coast" },
+  { "year": 1616, "event": "Dutch establish early trading posts and settlements" },
+  { "year": 1700, "event": "Dutch plantation economy expands along coastal rivers" },
+  { "year": 1814, "event": "Britain gains control of the colony from the Dutch" },
+  { "year": 1831, "event": "British Guiana is formally established" },
+  { "year": 1838, "event": "Slavery is abolished, followed by indentured labor immigration" },
+  { "year": 1899, "event": "Arbitration settles border dispute with Venezuela" },
+  { "year": 1953, "event": "Self-government movement intensifies under British rule" },
+  { "year": 1966, "event": "Guyana gains independence from the United Kingdom" },
+  { "year": 1970, "event": "Guyana becomes a cooperative republic" }
 ]
