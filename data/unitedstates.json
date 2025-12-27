@@ -1,150 +1,29 @@
 [
-  {
-    "year": -13000,
-    "event": "Earliest evidence of human habitation in North America."
-  },
-  {
-    "year": 1000,
-    "event": "Norse explorer Leif Erikson reaches North America."
-  },
-  {
-    "year": 1492,
-    "event": "Christopher Columbus makes his first voyage to the Americas."
-  },
-  {
-    "year": 1565,
-    "event": "St. Augustine, Florida founded by the Spanish; oldest European settlement in the continental U.S."
-  },
-  {
-    "year": 1607,
-    "event": "Jamestown, Virginia founded as first permanent English settlement."
-  },
-  {
-    "year": 1620,
-    "event": "Pilgrims land at Plymouth, Massachusetts."
-  },
-  {
-    "year": 1754,
-    "event": "Start of French and Indian War (Seven Years\u2019 War in North America)."
-  },
-  {
-    "year": 1773,
-    "event": "Boston Tea Party protests British taxation policies."
-  },
-  {
-    "year": 1775,
-    "event": "Start of the American Revolutionary War."
-  },
-  {
-    "year": 1776,
-    "event": "Declaration of Independence signed on July 4."
-  },
-  {
-    "year": 1781,
-    "event": "British surrender at Yorktown, ending major fighting in Revolutionary War."
-  },
-  {
-    "year": 1787,
-    "event": "U.S. Constitution drafted in Philadelphia."
-  },
-  {
-    "year": 1789,
-    "event": "George Washington inaugurated as first President of the United States."
-  },
-  {
-    "year": 1803,
-    "event": "Louisiana Purchase doubles size of U.S. territory."
-  },
-  {
-    "year": 1812,
-    "event": "War of 1812 begins between the U.S. and Britain."
-  },
-  {
-    "year": 1820,
-    "event": "Missouri Compromise attempts to balance slave and free states."
-  },
-  {
-    "year": 1846,
-    "event": "Mexican-American War begins; ends in 1848 with U.S. acquisition of Southwest."
-  },
-  {
-    "year": 1861,
-    "event": "American Civil War begins."
-  },
-  {
-    "year": 1863,
-    "event": "Emancipation Proclamation issued by President Lincoln."
-  },
-  {
-    "year": 1865,
-    "event": "Civil War ends; Lincoln assassinated; slavery abolished by 13th Amendment."
-  },
-  {
-    "year": 1870,
-    "event": "15th Amendment grants African American men the right to vote."
-  },
-  {
-    "year": 1898,
-    "event": "Spanish-American War results in U.S. acquisition of Philippines, Guam, and Puerto Rico."
-  },
-  {
-    "year": 1917,
-    "event": "U.S. enters World War I."
-  },
-  {
-    "year": 1920,
-    "event": "19th Amendment grants women the right to vote."
-  },
-  {
-    "year": 1929,
-    "event": "Stock market crash triggers the Great Depression."
-  },
-  {
-    "year": 1941,
-    "event": "U.S. enters World War II after attack on Pearl Harbor."
-  },
-  {
-    "year": 1945,
-    "event": "U.S. drops atomic bombs on Hiroshima and Nagasaki; WWII ends."
-  },
-  {
-    "year": 1947,
-    "event": "Start of the Cold War; Truman Doctrine announced."
-  },
-  {
-    "year": 1954,
-    "event": "Brown v. Board of Education Supreme Court ruling desegregates schools."
-  },
-  {
-    "year": 1964,
-    "event": "Civil Rights Act prohibits discrimination based on race, color, religion, sex, or national origin."
-  },
-  {
-    "year": 1969,
-    "event": "Apollo 11 mission lands first humans on the Moon."
-  },
-  {
-    "year": 1973,
-    "event": "U.S. withdraws from Vietnam War."
-  },
-  {
-    "year": 1991,
-    "event": "Cold War ends with collapse of the Soviet Union."
-  },
-  {
-    "year": 2001,
-    "event": "September 11 terrorist attacks lead to War on Terror."
-  },
-  {
-    "year": 2008,
-    "event": "Barack Obama elected as first African American President."
-  },
-  {
-    "year": 2020,
-    "event": "COVID-19 pandemic causes major health and economic disruption."
-  },
-  {
-    "year": 2021,
-    "event": "Capitol riot occurs on January 6; Joe Biden inaugurated as 46th president."
-  }
+  { "year": -15000, "event": "Earliest human presence in present-day United States" },
+  { "year": -3000, "event": "Indigenous societies develop agriculture and regional cultures" },
+  { "year": 1000, "event": "Mississippian civilization builds large mound cities" },
+  { "year": 1492, "event": "European exploration of the Americas begins" },
+  { "year": 1565, "event": "St. Augustine is founded as the first permanent European settlement" },
+  { "year": 1607, "event": "Jamestown is founded as England’s first lasting colony" },
+  { "year": 1620, "event": "Plymouth Colony is established by English settlers" },
+  { "year": 1700, "event": "British colonies expand along the Atlantic coast" },
+  { "year": 1754, "event": "French and Indian War reshapes control of North America" },
+  { "year": 1775, "event": "American Revolutionary War begins" },
+  { "year": 1776, "event": "Declaration of Independence is issued" },
+  { "year": 1787, "event": "United States Constitution is drafted" },
+  { "year": 1791, "event": "Bill of Rights is ratified" },
+  { "year": 1803, "event": "Louisiana Purchase doubles national territory" },
+  { "year": 1812, "event": "War of 1812 reinforces independence from Britain" },
+  { "year": 1848, "event": "Mexican-American War expands U.S. borders westward" },
+  { "year": 1861, "event": "Civil War begins between Union and Confederate states" },
+  { "year": 1865, "event": "Civil War ends and slavery is abolished" },
+  { "year": 1890, "event": "Frontier expansion officially ends" },
+  { "year": 1917, "event": "United States enters World War I" },
+  { "year": 1929, "event": "Great Depression begins, reshaping economic policy" },
+  { "year": 1941, "event": "United States enters World War II after Pearl Harbor" },
+  { "year": 1945, "event": "United States emerges as a global superpower" },
+  { "year": 1947, "event": "Cold War rivalry with the Soviet Union begins" },
+  { "year": 1964, "event": "Civil Rights Act advances legal equality" },
+  { "year": 1969, "event": "Apollo 11 lands the first humans on the Moon" },
+  { "year": 1991, "event": "Cold War ends with U.S. as sole superpower" }
 ]

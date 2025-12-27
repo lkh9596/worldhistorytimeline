@@ -1,122 +1,20 @@
 [
-  {
-    "year": -2500,
-    "event": "Beginning of Olmec civilization, considered the first major Mesoamerican culture."
-  },
-  {
-    "year": -1000,
-    "event": "Zapotec civilization emerges in the Valley of Oaxaca."
-  },
-  {
-    "year": 250,
-    "event": "Classic period of Teotihuacan, a major urban center near modern Mexico City."
-  },
-  {
-    "year": 600,
-    "event": "Decline of Teotihuacan; rise of city-states like Monte Alb\u00e1n and El Taj\u00edn."
-  },
-  {
-    "year": 900,
-    "event": "Toltec civilization flourishes in central Mexico."
-  },
-  {
-    "year": 1325,
-    "event": "Founding of Tenochtitl\u00e1n by the Mexica (Aztecs)."
-  },
-  {
-    "year": 1428,
-    "event": "Formation of the Aztec Triple Alliance, leading to Aztec Empire dominance."
-  },
-  {
-    "year": 1519,
-    "event": "Hern\u00e1n Cort\u00e9s arrives on the coast of Mexico and begins the Spanish conquest."
-  },
-  {
-    "year": 1521,
-    "event": "Fall of Tenochtitl\u00e1n; beginning of Spanish colonial rule."
-  },
-  {
-    "year": 1535,
-    "event": "Creation of the Viceroyalty of New Spain."
-  },
-  {
-    "year": 1810,
-    "event": "Miguel Hidalgo issues the Grito de Dolores, starting the Mexican War of Independence."
-  },
-  {
-    "year": 1821,
-    "event": "Mexico gains independence from Spain."
-  },
-  {
-    "year": 1824,
-    "event": "Federal Constitution of the United Mexican States enacted."
-  },
-  {
-    "year": 1836,
-    "event": "Texas declares independence from Mexico."
-  },
-  {
-    "year": 1846,
-    "event": "Mexican-American War begins."
-  },
-  {
-    "year": 1848,
-    "event": "Treaty of Guadalupe Hidalgo ends war; Mexico cedes large territories to the U.S."
-  },
-  {
-    "year": 1862,
-    "event": "Mexican forces defeat the French at the Battle of Puebla on May 5 (Cinco de Mayo)."
-  },
-  {
-    "year": 1864,
-    "event": "French install Emperor Maximilian I during Second Mexican Empire."
-  },
-  {
-    "year": 1867,
-    "event": "Republic restored under Benito Ju\u00e1rez; Maximilian executed."
-  },
-  {
-    "year": 1876,
-    "event": "Porfirio D\u00edaz seizes power, beginning the Porfiriato era."
-  },
-  {
-    "year": 1910,
-    "event": "Mexican Revolution begins against D\u00edaz\u2019s dictatorship."
-  },
-  {
-    "year": 1917,
-    "event": "New Mexican Constitution adopted, still in effect today."
-  },
-  {
-    "year": 1929,
-    "event": "Founding of the Institutional Revolutionary Party (PRI), which dominates for decades."
-  },
-  {
-    "year": 1968,
-    "event": "Tlatelolco massacre occurs before the Olympics in Mexico City."
-  },
-  {
-    "year": 1985,
-    "event": "Major earthquake devastates Mexico City, killing thousands."
-  },
-  {
-    "year": 1994,
-    "event": "NAFTA (North American Free Trade Agreement) takes effect; Zapatista uprising in Chiapas."
-  },
-  {
-    "year": 2000,
-    "event": "End of PRI dominance with election of Vicente Fox from PAN."
-  },
-  {
-    "year": 2006,
-    "event": "Government launches war against drug cartels, escalating violence."
-  },
-  {
-    "year": 2018,
-    "event": "Andr\u00e9s Manuel L\u00f3pez Obrador (AMLO) elected president with a landslide victory."
-  },
-  {
-    "year": 2020,
-    "event": "COVID-19 pandemic severely impacts Mexico\u2019s health system and economy."
-  }
+  { "year": -15000, "event": "Earliest human presence in present-day Mexico" },
+  { "year": -3000, "event": "Early agriculture develops with maize cultivation" },
+  { "year": -1200, "event": "Olmec civilization emerges as an early cultural center" },
+  { "year": 100, "event": "Teotihuacan grows into one of the largest cities in the ancient world" },
+  { "year": 900, "event": "Classic Maya cities flourish across southern Mexico" },
+  { "year": 1200, "event": "Toltec influence spreads from central Mexico" },
+  { "year": 1325, "event": "Aztecs found Tenochtitlán in the Valley of Mexico" },
+  { "year": 1519, "event": "Spanish expedition under Hernán Cortés arrives" },
+  { "year": 1521, "event": "Fall of Tenochtitlán marks the Spanish conquest" },
+  { "year": 1535, "event": "Viceroyalty of New Spain is established" },
+  { "year": 1600, "event": "Colonial society consolidates around cities, mines, and haciendas" },
+  { "year": 1810, "event": "Independence movement begins with popular uprisings" },
+  { "year": 1821, "event": "Mexico gains independence from Spain" },
+  { "year": 1848, "event": "War with the United States results in major territorial loss" },
+  { "year": 1864, "event": "Short-lived French-backed empire is established" },
+  { "year": 1867, "event": "Republic is restored after foreign intervention ends" },
+  { "year": 1910, "event": "Mexican Revolution reshapes state and society" },
+  { "year": 1917, "event": "New constitution establishes modern political framework" }
 ]
