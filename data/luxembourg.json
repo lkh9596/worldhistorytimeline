@@ -1,0 +1,19 @@
+[
+  { "year": -5000, "event": "Earliest human presence in present-day Luxembourg" },
+  { "year": -400, "event": "Celtic tribes inhabit the Ardennes and Moselle regions" },
+  { "year": 50, "event": "Roman rule integrates the region into Gallia Belgica" },
+  { "year": 400, "event": "Roman authority collapses during the Migration Period" },
+  { "year": 963, "event": "Fortress of Luxembourg is founded, forming the basis of the state" },
+  { "year": 1354, "event": "Luxembourg is elevated to a duchy within the Holy Roman Empire" },
+  { "year": 1443, "event": "Burgundian forces seize control of Luxembourg" },
+  { "year": 1555, "event": "Habsburg rule begins under the Spanish Netherlands" },
+  { "year": 1713, "event": "Austrian Habsburgs gain control after the War of Spanish Succession" },
+  { "year": 1795, "event": "France annexes Luxembourg during the Revolutionary Wars" },
+  { "year": 1815, "event": "Congress of Vienna creates the Grand Duchy of Luxembourg" },
+  { "year": 1839, "event": "Luxembourg is partitioned, establishing modern borders" },
+  { "year": 1867, "event": "Treaty of London guarantees Luxembourg’s neutrality" },
+  { "year": 1914, "event": "Germany occupies Luxembourg during World War I" },
+  { "year": 1940, "event": "Nazi Germany occupies Luxembourg in World War II" },
+  { "year": 1945, "event": "Luxembourg abandons neutrality and joins Western alliances" },
+  { "year": 1957, "event": "Luxembourg becomes a founding member of the European Economic Community" }
+]

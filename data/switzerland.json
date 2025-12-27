@@ -1,0 +1,20 @@
+[
+  { "year": -12000, "event": "Earliest human presence in present-day Switzerland after Ice Age retreat" },
+  { "year": -400, "event": "Celtic Helvetii inhabit the Swiss Plateau" },
+  { "year": -58, "event": "Roman conquest defeats the Helvetii and incorporates the region" },
+  { "year": 50, "event": "Roman cities and roads shape settlement patterns" },
+  { "year": 400, "event": "Roman authority collapses during the Migration Period" },
+  { "year": 800, "event": "Region becomes part of the Carolingian Empire" },
+  { "year": 1291, "event": "Forest cantons form an alliance, founding the Swiss Confederation" },
+  { "year": 1386, "event": "Swiss defeat Habsburg forces, securing independence" },
+  { "year": 1515, "event": "Swiss defeat at Marignano ends territorial expansion" },
+  { "year": 1517, "event": "Reformation spreads, dividing Switzerland along religious lines" },
+  { "year": 1648, "event": "Treaty of Westphalia recognizes Swiss independence from the Empire" },
+  { "year": 1798, "event": "French invasion creates the Helvetic Republic" },
+  { "year": 1815, "event": "Congress of Vienna guarantees Swiss neutrality" },
+  { "year": 1848, "event": "Federal constitution creates the modern Swiss state" },
+  { "year": 1914, "event": "Switzerland remains neutral during World War I" },
+  { "year": 1939, "event": "Armed neutrality maintained during World War II" },
+  { "year": 1945, "event": "Switzerland emerges as a center of diplomacy and finance" },
+  { "year": 2002, "event": "Switzerland joins the United Nations" }
+]

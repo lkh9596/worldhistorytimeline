@@ -1,0 +1,21 @@
+[
+  { "year": -8000, "event": "Earliest human presence in present-day Belgium" },
+  { "year": -500, "event": "Celtic tribes inhabit the Low Countries" },
+  { "year": 57, "event": "Roman conquest integrates the region into Gallia Belgica" },
+  { "year": 400, "event": "Roman authority collapses during the Migration Period" },
+  { "year": 800, "event": "Frankish rule incorporates the region into Carolingian Europe" },
+  { "year": 1000, "event": "Medieval towns flourish through trade and textiles" },
+  { "year": 1384, "event": "Burgundian Netherlands unite much of the region" },
+  { "year": 1556, "event": "Spanish Habsburg rule begins over the Southern Netherlands" },
+  { "year": 1648, "event": "Eighty Years’ War ends, dividing the Low Countries" },
+  { "year": 1713, "event": "Austrian Habsburgs gain control after the War of Spanish Succession" },
+  { "year": 1795, "event": "France annexes the region during the Revolutionary Wars" },
+  { "year": 1815, "event": "Belgium is merged with the Netherlands after Napoleon’s defeat" },
+  { "year": 1830, "event": "Belgium declares independence from the Netherlands" },
+  { "year": 1831, "event": "Belgium becomes a constitutional monarchy" },
+  { "year": 1885, "event": "King Leopold II establishes control over the Congo Free State" },
+  { "year": 1914, "event": "German invasion draws Britain into World War I" },
+  { "year": 1940, "event": "Belgium is occupied by Nazi Germany in World War II" },
+  { "year": 1945, "event": "Belgium helps found postwar European cooperation" },
+  { "year": 1957, "event": "Belgium becomes a founding member of the European Economic Community" }
+]

@@ -1,0 +1,22 @@
+[
+  { "year": -5000, "event": "Earliest human presence in present-day Austria" },
+  { "year": -400, "event": "Celtic cultures flourish in the Alpine and Danube regions" },
+  { "year": 15, "event": "Roman Empire incorporates the region as provinces along the Danube" },
+  { "year": 400, "event": "Roman authority collapses during the Migration Period" },
+  { "year": 800, "event": "Frankish rule integrates the region into the Carolingian Empire" },
+  { "year": 976, "event": "March of Austria is established as a frontier territory" },
+  { "year": 1156, "event": "Austria becomes a duchy under the Babenberg dynasty" },
+  { "year": 1278, "event": "Habsburg dynasty gains control of Austria" },
+  { "year": 1438, "event": "Habsburgs begin long dominance of the Holy Roman Empire" },
+  { "year": 1529, "event": "First Ottoman siege of Vienna marks frontier between empires" },
+  { "year": 1683, "event": "Second Ottoman siege of Vienna is defeated, securing Central Europe" },
+  { "year": 1740, "event": "Maria Theresa ascends the throne, reforming the Habsburg state" },
+  { "year": 1804, "event": "Austrian Empire is proclaimed" },
+  { "year": 1815, "event": "Congress of Vienna reshapes Europe after the Napoleonic Wars" },
+  { "year": 1867, "event": "Austria-Hungary is formed as a dual monarchy" },
+  { "year": 1914, "event": "Assassination of Archduke Franz Ferdinand triggers World War I" },
+  { "year": 1918, "event": "Austria-Hungary collapses; Republic of Austria is created" },
+  { "year": 1938, "event": "Austria is annexed by Nazi Germany" },
+  { "year": 1945, "event": "Austria is reestablished after World War II" },
+  { "year": 1955, "event": "Austria regains full sovereignty and declares permanent neutrality" }
+]

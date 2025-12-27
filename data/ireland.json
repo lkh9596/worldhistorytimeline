@@ -1,0 +1,21 @@
+[
+  { "year": -8000, "event": "Earliest human settlement in present-day Ireland" },
+  { "year": -3000, "event": "Neolithic farmers build megalithic monuments such as Newgrange" },
+  { "year": -500, "event": "Celtic culture and language spread across the island" },
+  { "year": 400, "event": "Early Christian monasteries flourish across Ireland" },
+  { "year": 795, "event": "Viking raids begin along the Irish coast" },
+  { "year": 841, "event": "Vikings establish Dublin as a trading settlement" },
+  { "year": 1014, "event": "Battle of Clontarf weakens Viking power in Ireland" },
+  { "year": 1169, "event": "Norman invasion begins English involvement in Ireland" },
+  { "year": 1366, "event": "English authority retreats outside the Pale around Dublin" },
+  { "year": 1541, "event": "England declares Ireland a kingdom under the English crown" },
+  { "year": 1607, "event": "Flight of the Earls marks collapse of Gaelic aristocracy" },
+  { "year": 1649, "event": "Cromwellian conquest devastates Irish society" },
+  { "year": 1690, "event": "Williamite War confirms Protestant dominance" },
+  { "year": 1801, "event": "Act of Union incorporates Ireland into the United Kingdom" },
+  { "year": 1845, "event": "Great Famine causes mass death and emigration" },
+  { "year": 1916, "event": "Easter Rising ignites modern independence movement" },
+  { "year": 1921, "event": "Irish Free State gains independence from Britain" },
+  { "year": 1949, "event": "Ireland becomes a fully independent republic" },
+  { "year": 1998, "event": "Good Friday Agreement helps end decades of conflict in Northern Ireland" }
+]
