@@ -1,82 +1,17 @@
 [
-  {
-    "year": -2500,
-    "event": "First permanent settlements appear in present-day Panama by pre-Columbian indigenous peoples."
-  },
-  {
-    "year": 1501,
-    "event": "Rodrigo de Bastidas becomes the first European to explore the Panamanian coast."
-  },
-  {
-    "year": 1502,
-    "event": "Christopher Columbus explores Panama during his fourth voyage."
-  },
-  {
-    "year": 1510,
-    "event": "First permanent European settlement established at Santa Mar\u00eda la Antigua del Dari\u00e9n."
-  },
-  {
-    "year": 1513,
-    "event": "Vasco N\u00fa\u00f1ez de Balboa crosses the Isthmus of Panama and discovers the Pacific Ocean."
-  },
-  {
-    "year": 1538,
-    "event": "Panama becomes the seat of the Real Audiencia of Panama under Spanish rule."
-  },
-  {
-    "year": 1821,
-    "event": "Panama declares independence from Spain and joins Gran Colombia."
-  },
-  {
-    "year": 1831,
-    "event": "After breakup of Gran Colombia, Panama remains a department of Colombia."
-  },
-  {
-    "year": 1846,
-    "event": "Mall\u00e1rino\u2013Bidlack Treaty signed between U.S. and New Granada (Colombia), granting U.S. transit rights."
-  },
-  {
-    "year": 1855,
-    "event": "Panama Railway completed across the isthmus, first transcontinental railroad."
-  },
-  {
-    "year": 1881,
-    "event": "French attempt to build Panama Canal under Ferdinand de Lesseps begins, but fails by 1889."
-  },
-  {
-    "year": 1903,
-    "event": "With U.S. support, Panama declares independence from Colombia; Hay\u2013Bunau-Varilla Treaty signed with U.S."
-  },
-  {
-    "year": 1904,
-    "event": "U.S. begins construction of the Panama Canal."
-  },
-  {
-    "year": 1914,
-    "event": "Panama Canal officially opens under U.S. control."
-  },
-  {
-    "year": 1968,
-    "event": "Military coup brings General Omar Torrijos to power."
-  },
-  {
-    "year": 1977,
-    "event": "Torrijos\u2013Carter Treaties signed, agreeing to transfer control of Panama Canal to Panama by 1999."
-  },
-  {
-    "year": 1989,
-    "event": "U.S. invades Panama to remove General Manuel Noriega from power."
-  },
-  {
-    "year": 1999,
-    "event": "Panama assumes full control of the Panama Canal from the U.S."
-  },
-  {
-    "year": 2016,
-    "event": "Panama Papers leak exposes global tax evasion linked to Panamanian law firm Mossack Fonseca."
-  },
-  {
-    "year": 2020,
-    "event": "COVID-19 pandemic severely impacts Panama\u2019s economy and healthcare system."
-  }
+  { "year": -10000, "event": "Earliest human presence in present-day Nicaragua" },
+  { "year": -2000, "event": "Indigenous societies develop agriculture and lake-based settlements" },
+  { "year": 500, "event": "Mesoamerican cultural influence spreads into western Nicaragua" },
+  { "year": 1000, "event": "Chorotega and Nicarao peoples dominate the Pacific region" },
+  { "year": 1524, "event": "Spanish conquest of western Nicaragua begins" },
+  { "year": 1524, "event": "Granada is founded as a colonial city" },
+  { "year": 1525, "event": "León is founded as a colonial administrative center" },
+  { "year": 1600, "event": "Region develops as a colonial frontier between oceans" },
+  { "year": 1821, "event": "Nicaragua declares independence from Spain" },
+  { "year": 1823, "event": "Joins the Federal Republic of Central America" },
+  { "year": 1838, "event": "Nicaragua becomes an independent republic" },
+  { "year": 1856, "event": "Filibuster William Walker briefly seizes power" },
+  { "year": 1909, "event": "Foreign intervention shapes national politics" },
+  { "year": 1979, "event": "Revolution overthrows long-standing dictatorship" },
+  { "year": 1990, "event": "Civil conflict ends and democratic transition begins" }
 ]

@@ -1,82 +1,17 @@
 [
-  {
-    "year": -500,
-    "event": "Pre-Columbian cultures, including the Nahua, Chorotega, and Nicarao peoples, inhabit the region."
-  },
-  {
-    "year": 1502,
-    "event": "Christopher Columbus explores the Caribbean coast of Nicaragua during his fourth voyage."
-  },
-  {
-    "year": 1524,
-    "event": "Spanish conquistador Francisco Hern\u00e1ndez de C\u00f3rdoba founds Granada and Le\u00f3n."
-  },
-  {
-    "year": 1532,
-    "event": "Nicaragua becomes part of the Spanish Captaincy General of Guatemala."
-  },
-  {
-    "year": 1821,
-    "event": "Nicaragua declares independence from Spain."
-  },
-  {
-    "year": 1823,
-    "event": "Nicaragua joins the United Provinces of Central America."
-  },
-  {
-    "year": 1838,
-    "event": "Nicaragua becomes a fully independent republic."
-  },
-  {
-    "year": 1856,
-    "event": "American adventurer William Walker declares himself president of Nicaragua; later ousted by Central American forces."
-  },
-  {
-    "year": 1893,
-    "event": "Jos\u00e9 Santos Zelaya establishes a liberal dictatorship and modernizes the country."
-  },
-  {
-    "year": 1909,
-    "event": "U.S. supports a rebellion that overthrows Zelaya; period of U.S. influence begins."
-  },
-  {
-    "year": 1927,
-    "event": "Civil war begins; Augusto C\u00e9sar Sandino leads a guerrilla movement against U.S. Marines."
-  },
-  {
-    "year": 1934,
-    "event": "Sandino assassinated; Anastasio Somoza Garc\u00eda rises to power."
-  },
-  {
-    "year": 1937,
-    "event": "Somoza becomes president, establishing the Somoza family dictatorship."
-  },
-  {
-    "year": 1972,
-    "event": "Devastating earthquake strikes Managua; government corruption hampers recovery."
-  },
-  {
-    "year": 1979,
-    "event": "Sandinista revolution overthrows Somoza regime; FSLN takes power."
-  },
-  {
-    "year": 1980,
-    "event": "U.S. begins funding Contra rebels against Sandinista government."
-  },
-  {
-    "year": 1990,
-    "event": "Violeta Chamorro defeats Sandinistas in election, becoming first female president in Latin America."
-  },
-  {
-    "year": 2006,
-    "event": "Daniel Ortega returns to power as president."
-  },
-  {
-    "year": 2018,
-    "event": "Mass protests erupt against Ortega\u2019s government; violent crackdown follows."
-  },
-  {
-    "year": 2021,
-    "event": "Ortega wins fourth consecutive term amid international criticism and opposition arrests."
-  }
+  { "year": -10000, "event": "Earliest human presence in present-day Nicaragua" },
+  { "year": -2000, "event": "Indigenous societies develop agriculture and lake-based settlements" },
+  { "year": 500, "event": "Mesoamerican cultural influence spreads into western Nicaragua" },
+  { "year": 1000, "event": "Chorotega and Nicarao peoples dominate the Pacific region" },
+  { "year": 1524, "event": "Spanish conquest of western Nicaragua begins" },
+  { "year": 1524, "event": "Granada is founded as a colonial city" },
+  { "year": 1525, "event": "León is founded as a colonial administrative center" },
+  { "year": 1600, "event": "Region develops as a colonial frontier between oceans" },
+  { "year": 1821, "event": "Nicaragua declares independence from Spain" },
+  { "year": 1823, "event": "Joins the Federal Republic of Central America" },
+  { "year": 1838, "event": "Nicaragua becomes an independent republic" },
+  { "year": 1856, "event": "Filibuster William Walker briefly seizes power" },
+  { "year": 1909, "event": "Foreign intervention shapes national politics" },
+  { "year": 1979, "event": "Revolution overthrows long-standing dictatorship" },
+  { "year": 1990, "event": "Civil conflict ends and democratic transition begins" }
 ]

@@ -1,74 +1,16 @@
 [
-  {
-    "year": -10000,
-    "event": "Earliest evidence of human habitation in what is now Costa Rica."
-  },
-  {
-    "year": 500,
-    "event": "Development of complex chiefdoms and trade networks among indigenous peoples."
-  },
-  {
-    "year": 1502,
-    "event": "Christopher Columbus arrives on the Caribbean coast of Costa Rica during his fourth voyage."
-  },
-  {
-    "year": 1563,
-    "event": "Spanish establish Cartago, the first permanent settlement in Costa Rica."
-  },
-  {
-    "year": 1821,
-    "event": "Costa Rica declares independence from Spain as part of the broader independence of Central America."
-  },
-  {
-    "year": 1823,
-    "event": "Costa Rica becomes part of the United Provinces of Central America."
-  },
-  {
-    "year": 1838,
-    "event": "Costa Rica formally declares itself a sovereign and independent state."
-  },
-  {
-    "year": 1856,
-    "event": "Costa Rica defeats American filibuster William Walker in the Battle of Rivas."
-  },
-  {
-    "year": 1870,
-    "event": "Beginning of liberal reforms and expansion of coffee exports."
-  },
-  {
-    "year": 1940,
-    "event": "President Rafael \u00c1ngel Calder\u00f3n Guardia introduces social reforms including labor rights and social security."
-  },
-  {
-    "year": 1948,
-    "event": "Civil war breaks out after disputed elections; Jos\u00e9 Figueres Ferrer leads the revolution and abolishes the military."
-  },
-  {
-    "year": 1949,
-    "event": "New constitution established; army officially abolished; democratic system consolidated."
-  },
-  {
-    "year": 1987,
-    "event": "President \u00d3scar Arias wins Nobel Peace Prize for efforts to end civil wars in Central America."
-  },
-  {
-    "year": 2007,
-    "event": "Costa Rica joins CAFTA-DR (Central America Free Trade Agreement with the U.S.)."
-  },
-  {
-    "year": 2010,
-    "event": "Laura Chinchilla elected as Costa Rica\u2019s first female president."
-  },
-  {
-    "year": 2017,
-    "event": "Costa Rica achieves nearly 100% of its electricity from renewable sources."
-  },
-  {
-    "year": 2020,
-    "event": "Costa Rica deals with COVID-19 pandemic and its economic impacts."
-  },
-  {
-    "year": 2021,
-    "event": "Costa Rica becomes first Central American country to legalize same-sex marriage."
-  }
+  { "year": -12000, "event": "Earliest human presence in present-day Costa Rica" },
+  { "year": -2000, "event": "Indigenous groups develop agriculture and village life" },
+  { "year": 500, "event": "Chorotega and other cultures flourish in the northwest" },
+  { "year": 1000, "event": "Trade networks link Costa Rica between Mesoamerica and the Andes" },
+  { "year": 1502, "event": "Christopher Columbus reaches the Caribbean coast" },
+  { "year": 1561, "event": "Spanish establish early settlements in the Central Valley" },
+  { "year": 1600, "event": "Region remains sparsely populated and marginal to the empire" },
+  { "year": 1821, "event": "Costa Rica declares independence from Spain" },
+  { "year": 1824, "event": "Costa Rica joins the Federal Republic of Central America" },
+  { "year": 1838, "event": "Costa Rica becomes a fully independent republic" },
+  { "year": 1843, "event": "Coffee production drives economic growth and stability" },
+  { "year": 1917, "event": "Short-lived military dictatorship disrupts civilian rule" },
+  { "year": 1948, "event": "Civil war leads to abolition of the military" },
+  { "year": 1949, "event": "New constitution establishes lasting democratic institutions" }
 ]

@@ -1,82 +1,18 @@
 [
-  {
-    "year": -2000,
-    "event": "Early Maya villages established; development of agriculture and pottery."
-  },
-  {
-    "year": 250,
-    "event": "Start of the Classic Maya period; major cities like Tikal, El Mirador, and Uaxactun flourish."
-  },
-  {
-    "year": 900,
-    "event": "Decline of Classic Maya civilization; many cities abandoned."
-  },
-  {
-    "year": 1524,
-    "event": "Spanish conquest of Guatemala begins under Pedro de Alvarado."
-  },
-  {
-    "year": 1540,
-    "event": "Guatemala becomes part of the Spanish Captaincy General of Guatemala."
-  },
-  {
-    "year": 1821,
-    "event": "Guatemala declares independence from Spain."
-  },
-  {
-    "year": 1823,
-    "event": "Joins the United Provinces of Central America."
-  },
-  {
-    "year": 1839,
-    "event": "Becomes fully independent after the dissolution of the Central American Federation."
-  },
-  {
-    "year": 1871,
-    "event": "Liberal Reform begins, promoting modernization and coffee exports."
-  },
-  {
-    "year": 1944,
-    "event": "Revolution ousts dictator Jorge Ubico; beginning of democratic reforms."
-  },
-  {
-    "year": 1954,
-    "event": "CIA-backed coup overthrows President Jacobo \u00c1rbenz, ending reforms."
-  },
-  {
-    "year": 1960,
-    "event": "Start of Guatemalan Civil War between military governments and leftist guerrillas."
-  },
-  {
-    "year": 1976,
-    "event": "Massive earthquake kills over 23,000 people and devastates infrastructure."
-  },
-  {
-    "year": 1982,
-    "event": "Efra\u00edn R\u00edos Montt seizes power in military coup; brutal counterinsurgency campaign begins."
-  },
-  {
-    "year": 1996,
-    "event": "Peace accords signed, ending 36-year civil war."
-  },
-  {
-    "year": 1999,
-    "event": "Truth Commission reveals over 200,000 people killed or disappeared during civil war."
-  },
-  {
-    "year": 2013,
-    "event": "Former dictator R\u00edos Montt convicted of genocide, later overturned."
-  },
-  {
-    "year": 2015,
-    "event": "President Otto P\u00e9rez Molina resigns amid corruption scandal; mass protests ensue."
-  },
-  {
-    "year": 2018,
-    "event": "Fuego volcano erupts, killing hundreds."
-  },
-  {
-    "year": 2020,
-    "event": "COVID-19 pandemic hits Guatemala's economy and healthcare system."
-  }
+  { "year": -10000, "event": "Earliest human presence in present-day Guatemala" },
+  { "year": -2000, "event": "Early Maya communities develop agriculture and villages" },
+  { "year": 250, "event": "Classic Maya civilization flourishes with major city-states" },
+  { "year": 900, "event": "Collapse of Classic Maya lowland cities" },
+  { "year": 1200, "event": "Postclassic Maya kingdoms dominate the highlands" },
+  { "year": 1524, "event": "Spanish conquest of Maya kingdoms begins" },
+  { "year": 1543, "event": "Capital of the Captaincy General of Guatemala is established" },
+  { "year": 1600, "event": "Colonial society consolidates around highland cities" },
+  { "year": 1773, "event": "Destructive earthquakes lead to relocation of the capital" },
+  { "year": 1821, "event": "Guatemala declares independence from Spain" },
+  { "year": 1823, "event": "Joins the Federal Republic of Central America" },
+  { "year": 1840, "event": "Guatemala becomes an independent republic" },
+  { "year": 1871, "event": "Liberal reforms expand coffee production and land concentration" },
+  { "year": 1954, "event": "Foreign-backed coup reshapes political trajectory" },
+  { "year": 1960, "event": "Civil war begins between state and insurgent groups" },
+  { "year": 1996, "event": "Peace accords end decades-long civil war" }
 ]

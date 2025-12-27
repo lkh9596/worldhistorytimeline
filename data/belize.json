@@ -1,78 +1,13 @@
 [
-  {
-    "year": -1500,
-    "event": "Earliest Maya settlements appear in what is now Belize."
-  },
-  {
-    "year": 250,
-    "event": "Start of the Classic Maya period; major cities like Caracol and Lamanai flourish."
-  },
-  {
-    "year": 900,
-    "event": "Collapse of many major Maya cities in the region."
-  },
-  {
-    "year": 1502,
-    "event": "Christopher Columbus sails near the coast of Belize on his fourth voyage."
-  },
-  {
-    "year": 1638,
-    "event": "British buccaneers begin to settle in Belize, logging mahogany and other hardwoods."
-  },
-  {
-    "year": 1763,
-    "event": "Treaty of Paris grants British rights to log in the area, though Spain retains sovereignty."
-  },
-  {
-    "year": 1798,
-    "event": "Battle of St. George's Caye \u2013 British settlers and slaves repel Spanish attack."
-  },
-  {
-    "year": 1862,
-    "event": "Belize formally declared a British Crown Colony, named British Honduras."
-  },
-  {
-    "year": 1931,
-    "event": "Hurricane devastates Belize City; poor response sparks labor activism."
-  },
-  {
-    "year": 1954,
-    "event": "Universal adult suffrage introduced."
-  },
-  {
-    "year": 1964,
-    "event": "Self-government granted with new constitution."
-  },
-  {
-    "year": 1973,
-    "event": "Name changed from British Honduras to Belize."
-  },
-  {
-    "year": 1981,
-    "event": "Belize gains full independence from the United Kingdom on September 21."
-  },
-  {
-    "year": 1991,
-    "event": "Guatemala officially recognizes Belize's independence."
-  },
-  {
-    "year": 2001,
-    "event": "Belize joins the Caribbean Court of Justice."
-  },
-  {
-    "year": 2005,
-    "event": "Economic crisis and unrest over government tax reforms and spending."
-  },
-  {
-    "year": 2012,
-    "event": "Government seeks public support for taking Belize\u2013Guatemala territorial dispute to the ICJ."
-  },
-  {
-    "year": 2019,
-    "event": "Referendum held; majority support taking Guatemala dispute to International Court of Justice."
-  },
-  {
-    "year": 2020,
-    "event": "Belize deals with economic fallout from COVID-19 and tourism collapse."
-  }
+  { "year": -9000, "event": "Earliest human presence in present-day Belize" },
+  { "year": -2000, "event": "Early Maya communities develop agriculture and villages" },
+  { "year": 250, "event": "Classic Maya civilization flourishes with major cities and temples" },
+  { "year": 900, "event": "Collapse of Classic Maya city-states in the lowlands" },
+  { "year": 1502, "event": "Spanish explorers reach the Belizean coast" },
+  { "year": 1638, "event": "English settlers establish logging camps along the coast" },
+  { "year": 1700, "event": "British logwood and mahogany trade expands inland" },
+  { "year": 1798, "event": "Battle of St. George’s Caye secures British control" },
+  { "year": 1862, "event": "British Honduras becomes a formal British colony" },
+  { "year": 1954, "event": "Self-government movement gains momentum" },
+  { "year": 1981, "event": "Belize gains independence from the United Kingdom" }
 ]
