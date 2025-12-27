@@ -1,74 +1,13 @@
 [
-  {
-    "year": 100,
-    "event": "Island originally inhabited by Ciboney peoples, later by Arawaks and then Caribs (Kalinago)."
-  },
-  {
-    "year": 1498,
-    "event": "Christopher Columbus sights Saint Vincent on January 22 during his third voyage."
-  },
-  {
-    "year": 1600,
-    "event": "Island inhabited by Garifuna (Black Caribs), descendants of Caribs and shipwrecked Africans."
-  },
-  {
-    "year": 1719,
-    "event": "First French settlers establish plantations despite resistance from the Garifuna."
-  },
-  {
-    "year": 1763,
-    "event": "Treaty of Paris cedes Saint Vincent to Britain for the first time."
-  },
-  {
-    "year": 1779,
-    "event": "France captures the island during the American Revolutionary War."
-  },
-  {
-    "year": 1783,
-    "event": "Treaty of Versailles returns the island to British control."
-  },
-  {
-    "year": 1795,
-    "event": "First Carib War \u2013 Garifuna resist British colonization with French support."
-  },
-  {
-    "year": 1797,
-    "event": "Second Carib War ends with British victory; Garifuna exiled to Honduras."
-  },
-  {
-    "year": 1834,
-    "event": "Slavery abolished in the British Empire; former enslaved population emancipated."
-  },
-  {
-    "year": 1877,
-    "event": "Saint Vincent becomes a British Crown Colony."
-  },
-  {
-    "year": 1958,
-    "event": "Joins the West Indies Federation."
-  },
-  {
-    "year": 1969,
-    "event": "Becomes an associated state with internal self-government."
-  },
-  {
-    "year": 1979,
-    "event": "Saint Vincent and the Grenadines gains full independence from the UK on October 27."
-  },
-  {
-    "year": 2001,
-    "event": "Ralph Gonsalves becomes Prime Minister; begins long tenure in office."
-  },
-  {
-    "year": 2009,
-    "event": "Referendum to adopt a republican constitution fails to pass."
-  },
-  {
-    "year": 2021,
-    "event": "La Soufri\u00e8re volcano erupts, displacing thousands and causing widespread damage."
-  },
-  {
-    "year": 2020,
-    "event": "COVID-19 pandemic impacts economy and healthcare system."
-  }
+  { "year": -3000, "event": "Earliest human presence on Saint Vincent and the Grenadines" },
+  { "year": 1000, "event": "Kalinago peoples inhabit Saint Vincent and nearby islands" },
+  { "year": 1498, "event": "Christopher Columbus sights Saint Vincent" },
+  { "year": 1700, "event": "French and British compete for control of the island" },
+  { "year": 1763, "event": "Britain gains control of Saint Vincent" },
+  { "year": 1797, "event": "Garifuna are forcibly deported after resistance" },
+  { "year": 1800, "event": "Sugar plantations expand under British rule" },
+  { "year": 1834, "event": "Slavery is abolished under British rule" },
+  { "year": 1958, "event": "Joins the West Indies Federation" },
+  { "year": 1969, "event": "Associated statehood grants internal self-government" },
+  { "year": 1979, "event": "Saint Vincent and the Grenadines gains independence from the United Kingdom" }
 ]

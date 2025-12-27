@@ -1,86 +1,14 @@
 [
-  {
-    "year": -5000,
-    "event": "Earliest evidence of human habitation on Trinidad by Archaic peoples."
-  },
-  {
-    "year": 250,
-    "event": "Saladoid peoples from South America settle both Trinidad and Tobago."
-  },
-  {
-    "year": 1300,
-    "event": "Island inhabited by Arawak and Carib-speaking peoples."
-  },
-  {
-    "year": 1498,
-    "event": "Christopher Columbus lands on Trinidad during his third voyage."
-  },
-  {
-    "year": 1532,
-    "event": "Spanish begin colonization of Trinidad, though limited settlement occurs for decades."
-  },
-  {
-    "year": 1592,
-    "event": "San Jos\u00e9 de Oru\u00f1a founded as the first Spanish settlement in Trinidad."
-  },
-  {
-    "year": 1783,
-    "event": "Cedula of Population encourages French immigration and African slavery to Trinidad."
-  },
-  {
-    "year": 1797,
-    "event": "British forces capture Trinidad from Spain."
-  },
-  {
-    "year": 1802,
-    "event": "Treaty of Amiens formalizes British control of Trinidad."
-  },
-  {
-    "year": 1803,
-    "event": "British begin formal administration of Trinidad."
-  },
-  {
-    "year": 1889,
-    "event": "Tobago administratively united with Trinidad as a single colony."
-  },
-  {
-    "year": 1834,
-    "event": "Slavery abolished in the British Empire; emancipation of enslaved Africans."
-  },
-  {
-    "year": 1919,
-    "event": "First major labor unrest and formation of workers' organizations."
-  },
-  {
-    "year": 1945,
-    "event": "Universal suffrage introduced in Trinidad and Tobago."
-  },
-  {
-    "year": 1956,
-    "event": "Eric Williams forms the People\u2019s National Movement (PNM), leading push for independence."
-  },
-  {
-    "year": 1962,
-    "event": "Trinidad and Tobago gains independence from the United Kingdom on August 31."
-  },
-  {
-    "year": 1970,
-    "event": "Black Power Revolution sparks social unrest; government declares state of emergency."
-  },
-  {
-    "year": 1976,
-    "event": "Trinidad and Tobago becomes a republic within the Commonwealth."
-  },
-  {
-    "year": 1990,
-    "event": "Jamaat al Muslimeen stages a failed coup attempt, holding government hostage for six days."
-  },
-  {
-    "year": 2010,
-    "event": "Kamla Persad-Bissessar becomes the country\u2019s first female Prime Minister."
-  },
-  {
-    "year": 2020,
-    "event": "COVID-19 pandemic affects economy, particularly energy and tourism sectors."
-  }
+  { "year": -7000, "event": "Earliest human presence on Trinidad and Tobago" },
+  { "year": -1000, "event": "Arawak and Carib peoples settle the islands" },
+  { "year": 1498, "event": "Christopher Columbus sights Trinidad" },
+  { "year": 1592, "event": "Spain establishes permanent settlement on Trinidad" },
+  { "year": 1797, "event": "Britain captures Trinidad from Spain" },
+  { "year": 1802, "event": "Trinidad is formally ceded to Britain" },
+  { "year": 1834, "event": "Slavery is abolished under British rule" },
+  { "year": 1845, "event": "Indentured labor immigration begins from India" },
+  { "year": 1889, "event": "Trinidad and Tobago are administratively united" },
+  { "year": 1937, "event": "Labor movements drive political reforms" },
+  { "year": 1962, "event": "Trinidad and Tobago gains independence from the United Kingdom" },
+  { "year": 1976, "event": "Republic is proclaimed, ending ties to the British monarchy" }
 ]

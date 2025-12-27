@@ -1,74 +1,13 @@
 [
-  {
-    "year": -1000,
-    "event": "Early settlements by Ciboney peoples, followed by Arawaks and later Caribs."
-  },
-  {
-    "year": 1493,
-    "event": "Christopher Columbus sights the islands on his second voyage."
-  },
-  {
-    "year": 1623,
-    "event": "English establish first settlement on Saint Kitts."
-  },
-  {
-    "year": 1624,
-    "event": "French establish colony on Saint Kitts alongside the English."
-  },
-  {
-    "year": 1626,
-    "event": "Carib population massacred by Europeans during joint Anglo-French operation."
-  },
-  {
-    "year": 1628,
-    "event": "First English settlement established on Nevis."
-  },
-  {
-    "year": 1667,
-    "event": "Treaty of Breda confirms English control over Saint Kitts."
-  },
-  {
-    "year": 1783,
-    "event": "Treaty of Paris confirms British control over both Saint Kitts and Nevis."
-  },
-  {
-    "year": 1834,
-    "event": "Slavery abolished in the British Empire; emancipation of enslaved Africans."
-  },
-  {
-    "year": 1882,
-    "event": "Saint Kitts, Nevis, and Anguilla united as a single British colony."
-  },
-  {
-    "year": 1958,
-    "event": "Joins the West Indies Federation."
-  },
-  {
-    "year": 1967,
-    "event": "Becomes an associated state with internal self-government."
-  },
-  {
-    "year": 1980,
-    "event": "Anguilla formally separates from Saint Kitts and Nevis."
-  },
-  {
-    "year": 1983,
-    "event": "Saint Kitts and Nevis gains full independence from the United Kingdom on September 19."
-  },
-  {
-    "year": 1998,
-    "event": "Referendum on Nevis independence fails to reach required two-thirds majority."
-  },
-  {
-    "year": 2006,
-    "event": "Closure of the sugar industry, which had been central to the economy for centuries."
-  },
-  {
-    "year": 2015,
-    "event": "Timothy Harris becomes Prime Minister following general elections."
-  },
-  {
-    "year": 2020,
-    "event": "Government implements lockdowns and economic aid during COVID-19 pandemic."
-  }
+  { "year": -3000, "event": "Earliest human presence on Saint Kitts and Nevis" },
+  { "year": 1000, "event": "Kalinago peoples inhabit the islands" },
+  { "year": 1493, "event": "Christopher Columbus sights Saint Kitts" },
+  { "year": 1623, "event": "English establish the first permanent settlement on Saint Kitts" },
+  { "year": 1625, "event": "French and English jointly colonize Saint Kitts" },
+  { "year": 1700, "event": "Sugar plantations expand using enslaved African labor" },
+  { "year": 1713, "event": "Britain gains full control of Saint Kitts" },
+  { "year": 1834, "event": "Slavery is abolished under British rule" },
+  { "year": 1882, "event": "Saint Kitts, Nevis, and Anguilla are administratively united" },
+  { "year": 1967, "event": "Associated statehood grants internal self-government" },
+  { "year": 1983, "event": "Saint Kitts and Nevis gains independence from the United Kingdom" }
 ]

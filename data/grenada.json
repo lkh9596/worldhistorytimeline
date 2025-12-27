@@ -1,74 +1,12 @@
 [
-  {
-    "year": 300,
-    "event": "Arawak-speaking peoples settle in Grenada from South America."
-  },
-  {
-    "year": 1000,
-    "event": "Island inhabited by the Caribs (Kalinago), who displace earlier Arawak settlers."
-  },
-  {
-    "year": 1498,
-    "event": "Christopher Columbus sights Grenada during his third voyage and names it 'Concepci\u00f3n'."
-  },
-  {
-    "year": 1609,
-    "event": "English attempt to settle Grenada but are repelled by the Caribs."
-  },
-  {
-    "year": 1650,
-    "event": "French settlers from Martinique colonize Grenada and establish settlements."
-  },
-  {
-    "year": 1763,
-    "event": "Grenada ceded to Britain by France under the Treaty of Paris."
-  },
-  {
-    "year": 1779,
-    "event": "France recaptures Grenada during the American Revolutionary War."
-  },
-  {
-    "year": 1783,
-    "event": "Grenada restored to Britain by the Treaty of Versailles."
-  },
-  {
-    "year": 1834,
-    "event": "Slavery abolished in the British Empire, including Grenada."
-  },
-  {
-    "year": 1958,
-    "event": "Grenada joins the West Indies Federation."
-  },
-  {
-    "year": 1967,
-    "event": "Becomes an associated state with full internal self-government."
-  },
-  {
-    "year": 1974,
-    "event": "Grenada gains full independence from the United Kingdom on February 7."
-  },
-  {
-    "year": 1979,
-    "event": "Marxist-Leninist New Jewel Movement, led by Maurice Bishop, overthrows the government in a coup."
-  },
-  {
-    "year": 1983,
-    "event": "Internal power struggle leads to Bishop\u2019s execution; U.S. leads military invasion and restores order."
-  },
-  {
-    "year": 1984,
-    "event": "Democratic elections held; constitutional government restored."
-  },
-  {
-    "year": 2004,
-    "event": "Hurricane Ivan devastates Grenada, causing widespread damage."
-  },
-  {
-    "year": 2008,
-    "event": "Tillman Thomas elected Prime Minister, marking peaceful political transition."
-  },
-  {
-    "year": 2020,
-    "event": "Grenada responds to COVID-19 pandemic with lockdowns and economic stimulus measures."
-  }
+  { "year": -3000, "event": "Earliest human presence on the island of Grenada" },
+  { "year": 1000, "event": "Arawak and later Carib peoples inhabit the island" },
+  { "year": 1498, "event": "Christopher Columbus sights Grenada" },
+  { "year": 1650, "event": "France establishes permanent settlement" },
+  { "year": 1763, "event": "Britain gains control of Grenada from France" },
+  { "year": 1700, "event": "Sugar plantations expand using enslaved African labor" },
+  { "year": 1795, "event": "Fedon’s Rebellion challenges British rule" },
+  { "year": 1834, "event": "Slavery is abolished under British rule" },
+  { "year": 1974, "event": "Grenada gains independence from the United Kingdom" },
+  { "year": 1983, "event": "U.S.-led intervention follows internal political crisis" }
 ]

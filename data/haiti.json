@@ -1,90 +1,16 @@
 [
-  {
-    "year": 500,
-    "event": "Ta\u00edno people, an Arawakan-speaking group, settle the island of Hispaniola."
-  },
-  {
-    "year": 1492,
-    "event": "Christopher Columbus lands on Hispaniola; establishes La Navidad, first European settlement in the Americas."
-  },
-  {
-    "year": 1496,
-    "event": "Santo Domingo founded by the Spanish on the eastern part of the island."
-  },
-  {
-    "year": 1697,
-    "event": "Treaty of Ryswick formally cedes western third of Hispaniola to France; becomes Saint-Domingue."
-  },
-  {
-    "year": 1700,
-    "event": "Saint-Domingue becomes France\u2019s most profitable colony due to sugar and coffee plantations using enslaved African labor."
-  },
-  {
-    "year": 1791,
-    "event": "Massive slave revolt begins the Haitian Revolution."
-  },
-  {
-    "year": 1801,
-    "event": "Toussaint Louverture issues constitution for autonomous colony, abolishing slavery."
-  },
-  {
-    "year": 1802,
-    "event": "Napoleon sends troops to reassert control; Louverture captured and deported to France."
-  },
-  {
-    "year": 1804,
-    "event": "Jean-Jacques Dessalines declares independence; Haiti becomes first Black republic and second independent nation in the Americas."
-  },
-  {
-    "year": 1825,
-    "event": "France demands and Haiti agrees to pay reparations in exchange for diplomatic recognition."
-  },
-  {
-    "year": 1915,
-    "event": "U.S. invades and occupies Haiti, citing instability and foreign interests."
-  },
-  {
-    "year": 1934,
-    "event": "U.S. withdraws troops but maintains economic and political influence."
-  },
-  {
-    "year": 1957,
-    "event": "Fran\u00e7ois 'Papa Doc' Duvalier elected president; establishes brutal dictatorship."
-  },
-  {
-    "year": 1971,
-    "event": "Jean-Claude 'Baby Doc' Duvalier succeeds his father at age 19, continuing authoritarian rule."
-  },
-  {
-    "year": 1986,
-    "event": "Duvalier regime overthrown; exiled to France."
-  },
-  {
-    "year": 1990,
-    "event": "Jean-Bertrand Aristide elected president in Haiti\u2019s first democratic election."
-  },
-  {
-    "year": 1991,
-    "event": "Military coup ousts Aristide; reinstated in 1994 with U.S. and UN support."
-  },
-  {
-    "year": 2004,
-    "event": "Aristide ousted again amid unrest; UN peacekeeping mission established."
-  },
-  {
-    "year": 2010,
-    "event": "Massive earthquake kills over 200,000 and devastates Port-au-Prince."
-  },
-  {
-    "year": 2016,
-    "event": "Hurricane Matthew causes widespread destruction."
-  },
-  {
-    "year": 2021,
-    "event": "President Jovenel Mo\u00efse assassinated; political instability intensifies."
-  },
-  {
-    "year": 2022,
-    "event": "Gangs expand control amid political vacuum; international community calls for aid and intervention."
-  }
+  { "year": -5000, "event": "Earliest human presence on the island of Hispaniola" },
+  { "year": -1000, "event": "Taíno societies develop agriculture and chiefdoms" },
+  { "year": 1492, "event": "Christopher Columbus arrives on Hispaniola" },
+  { "year": 1493, "event": "First Spanish settlement in the Americas is established" },
+  { "year": 1697, "event": "France gains control of western Hispaniola" },
+  { "year": 1700, "event": "Saint-Domingue becomes France’s richest sugar colony" },
+  { "year": 1791, "event": "Slave uprising begins the Haitian Revolution" },
+  { "year": 1804, "event": "Haiti declares independence after defeating European powers" },
+  { "year": 1825, "event": "France forces Haiti to pay independence indemnity" },
+  { "year": 1844, "event": "Dominican Republic separates from Haiti" },
+  { "year": 1915, "event": "United States occupies Haiti" },
+  { "year": 1934, "event": "U.S. occupation ends" },
+  { "year": 1957, "event": "Duvalier dictatorship begins" },
+  { "year": 1986, "event": "End of the Duvalier regime" }
 ]

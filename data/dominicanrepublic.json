@@ -1,90 +1,17 @@
 [
-  {
-    "year": 5000,
-    "event": "Earliest known Archaic period inhabitants settle on the island of Hispaniola."
-  },
-  {
-    "year": 500,
-    "event": "Ta\u00edno culture develops on the island, becoming the dominant indigenous group."
-  },
-  {
-    "year": 1492,
-    "event": "Christopher Columbus lands on Hispaniola during his first voyage; La Navidad settlement founded."
-  },
-  {
-    "year": 1496,
-    "event": "Bartholomew Columbus founds Santo Domingo, the oldest permanent European settlement in the Americas."
-  },
-  {
-    "year": 1697,
-    "event": "Treaty of Ryswick divides Hispaniola; western third (now Haiti) ceded to France, rest remains Spanish."
-  },
-  {
-    "year": 1795,
-    "event": "Treaty of Basel cedes the entire island to France."
-  },
-  {
-    "year": 1809,
-    "event": "Spanish regain control of eastern Hispaniola (Santo Domingo)."
-  },
-  {
-    "year": 1821,
-    "event": "Santo Domingo declares independence from Spain as the Republic of Spanish Haiti."
-  },
-  {
-    "year": 1822,
-    "event": "Haitian forces under Jean-Pierre Boyer occupy Santo Domingo; unify island under Haitian rule."
-  },
-  {
-    "year": 1844,
-    "event": "Dominican Republic declares independence from Haiti on February 27."
-  },
-  {
-    "year": 1861,
-    "event": "President Pedro Santana returns the country to Spanish colonial rule."
-  },
-  {
-    "year": 1865,
-    "event": "Restoration War ends; Dominican Republic regains independence from Spain."
-  },
-  {
-    "year": 1916,
-    "event": "U.S. military occupies the Dominican Republic to stabilize political unrest and debt issues."
-  },
-  {
-    "year": 1924,
-    "event": "U.S. ends occupation; Horacio V\u00e1squez elected president."
-  },
-  {
-    "year": 1930,
-    "event": "Rafael Trujillo seizes power, begins brutal dictatorship lasting over 30 years."
-  },
-  {
-    "year": 1961,
-    "event": "Trujillo assassinated; political instability follows."
-  },
-  {
-    "year": 1965,
-    "event": "Civil war and second U.S. intervention to prevent communist takeover."
-  },
-  {
-    "year": 1966,
-    "event": "Joaqu\u00edn Balaguer elected president; begins era of authoritarian rule."
-  },
-  {
-    "year": 1978,
-    "event": "Democratic elections resume; peaceful transfer of power to opposition."
-  },
-  {
-    "year": 1996,
-    "event": "Leonel Fern\u00e1ndez elected, ushering in new era of economic modernization."
-  },
-  {
-    "year": 2010,
-    "event": "New constitution enacted with expanded presidential powers and rights protections."
-  },
-  {
-    "year": 2020,
-    "event": "Luis Abinader elected president; manages COVID-19 pandemic and economic recovery efforts."
-  }
+  { "year": -5000, "event": "Earliest human presence on the island of Hispaniola" },
+  { "year": -1000, "event": "Taíno societies develop agriculture and chiefdoms" },
+  { "year": 1492, "event": "Christopher Columbus arrives on Hispaniola" },
+  { "year": 1496, "event": "Santo Domingo is founded as the first permanent European city in the Americas" },
+  { "year": 1530, "event": "Spanish colonial society consolidates around sugar plantations" },
+  { "year": 1697, "event": "Spain cedes western Hispaniola to France" },
+  { "year": 1795, "event": "Spain transfers eastern Hispaniola to France" },
+  { "year": 1809, "event": "Spain regains control of eastern Hispaniola" },
+  { "year": 1821, "event": "Brief declaration of independence from Spain" },
+  { "year": 1822, "event": "Haiti occupies the eastern part of the island" },
+  { "year": 1844, "event": "Dominican Republic declares independence from Haiti" },
+  { "year": 1861, "event": "Spain briefly recolonizes the Dominican Republic" },
+  { "year": 1865, "event": "Restoration War ends Spanish rule" },
+  { "year": 1930, "event": "Trujillo dictatorship begins" },
+  { "year": 1961, "event": "End of the Trujillo regime" }
 ]
