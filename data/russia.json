@@ -1,0 +1,17 @@
+[
+  { "year": 900, "event": "East Slavic states emerge along river trade routes" },
+  { "year": 988, "event": "Christianization anchors Rus lands in Orthodox Europe" },
+  { "year": 1240, "event": "Mongol rule shifts power toward northern principalities" },
+  { "year": 1327, "event": "Moscow emerges as a dominant Rus center" },
+  { "year": 1480, "event": "Muscovy ends Mongol dominance" },
+  { "year": 1547, "event": "Russia proclaimed a centralized tsardom" },
+  { "year": 1613, "event": "Romanov dynasty stabilizes the Russian state" },
+  { "year": 1703, "event": "St. Petersburg founded as a European capital" },
+  { "year": 1721, "event": "Russia becomes a major European empire" },
+  { "year": 1812, "event": "Napoleon’s invasion fails inside Russia" },
+  { "year": 1861, "event": "Serfdom abolished across the empire" },
+  { "year": 1917, "event": "Imperial system collapses amid revolution" },
+  { "year": 1922, "event": "Soviet Union formed from former imperial lands" },
+  { "year": 1945, "event": "Soviet victory reshapes Eastern Europe" },
+  { "year": 1991, "event": "Soviet Union dissolves, ending imperial continuity" }
+]

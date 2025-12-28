@@ -1,0 +1,15 @@
+[
+  { "year": 900, "event": "Kyivan Rus emerges as a major Slavic state" },
+  { "year": 988, "event": "Christianization links the region to Orthodox Europe" },
+  { "year": 1240, "event": "Mongol invasion destroys Kyiv and fragments Rus lands" },
+  { "year": 1362, "event": "Lithuanian rule expands over much of Ukraine" },
+  { "year": 1569, "event": "Polish rule spreads under the Polish–Lithuanian Commonwealth" },
+  { "year": 1648, "event": "Cossack uprising reshapes regional power" },
+  { "year": 1709, "event": "Russian dominance expands after defeat of Cossack allies" },
+  { "year": 1795, "event": "Imperial powers fully absorb Ukrainian lands" },
+  { "year": 1917, "event": "Brief independence follows imperial collapse" },
+  { "year": 1932, "event": "Famine devastates rural Ukraine under Soviet rule" },
+  { "year": 1941, "event": "World War II brings massive destruction and occupation" },
+  { "year": 1945, "event": "Ukraine consolidated within the Soviet Union" },
+  { "year": 1991, "event": "Ukraine regains independence after Soviet collapse" }
+]
