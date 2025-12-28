@@ -1,0 +1,18 @@
+[
+  { "year": -9000, "event": "Earliest human settlement in present-day Estonia after Ice Age retreat" },
+  { "year": -3000, "event": "Finno-Ugric peoples establish farming and fishing communities" },
+  { "year": 800, "event": "Viking trade routes connect Estonia to Scandinavia and Eastern Europe" },
+  { "year": 1219, "event": "Danish forces conquer northern Estonia during crusades" },
+  { "year": 1227, "event": "German crusading orders gain control over most of Estonia" },
+  { "year": 1285, "event": "Tallinn joins the Hanseatic League as a major Baltic port" },
+  { "year": 1561, "event": "Estonia comes under Swedish rule after Livonian Order collapses" },
+  { "year": 1632, "event": "University of Tartu is founded under Swedish administration" },
+  { "year": 1721, "event": "Russia gains control after the Great Northern War" },
+  { "year": 1800, "event": "Baltic German elite dominates society under Russian rule" },
+  { "year": 1918, "event": "Estonia declares independence after World War I" },
+  { "year": 1940, "event": "Soviet occupation begins during World War II" },
+  { "year": 1941, "event": "Nazi occupation devastates Jewish and urban communities" },
+  { "year": 1944, "event": "Soviet rule is reimposed after World War II" },
+  { "year": 1991, "event": "Estonia restores independence with the collapse of the Soviet Union" },
+  { "year": 2004, "event": "Estonia joins the European Union and NATO" }
+]

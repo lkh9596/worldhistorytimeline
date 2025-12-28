@@ -1,0 +1,18 @@
+[
+  { "year": -9000, "event": "Earliest human settlement in present-day Latvia after Ice Age retreat" },
+  { "year": -3000, "event": "Baltic tribes establish farming communities and regional cultures" },
+  { "year": 800, "event": "Viking trade routes link Latvia to the Baltic and Eastern Europe" },
+  { "year": 1201, "event": "Riga is founded as a German trading and missionary center" },
+  { "year": 1237, "event": "Crusading orders establish control over much of Latvia" },
+  { "year": 1282, "event": "Riga joins the Hanseatic League as a major Baltic port" },
+  { "year": 1561, "event": "Livonian Order collapses; region falls under Polish-Lithuanian influence" },
+  { "year": 1621, "event": "Sweden captures Riga, integrating Latvia into the Swedish Empire" },
+  { "year": 1721, "event": "Russia gains control after the Great Northern War" },
+  { "year": 1800, "event": "German landowning elite dominates society under Russian rule" },
+  { "year": 1918, "event": "Latvia declares independence after World War I" },
+  { "year": 1940, "event": "Soviet occupation begins under World War II agreements" },
+  { "year": 1941, "event": "Nazi occupation devastates Jewish and urban communities" },
+  { "year": 1944, "event": "Soviet rule is reimposed after World War II" },
+  { "year": 1991, "event": "Latvia restores independence with the collapse of the Soviet Union" },
+  { "year": 2004, "event": "Latvia joins the European Union and NATO" }
+]
