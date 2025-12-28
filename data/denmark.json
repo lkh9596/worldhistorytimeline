@@ -1,0 +1,22 @@
+[
+  { "year": -12000, "event": "Earliest human settlement in present-day Denmark after Ice Age retreat" },
+  { "year": -4000, "event": "Neolithic societies build megalithic tombs and practice farming" },
+  { "year": -1800, "event": "Nordic Bronze Age culture flourishes with trade and metalwork" },
+  { "year": -500, "event": "Iron Age societies establish villages and regional power centers" },
+  { "year": 500, "event": "Early Danish kingdoms begin forming in southern Scandinavia" },
+  { "year": 793, "event": "Viking Age begins with raids across Europe" },
+  { "year": 900, "event": "Denmark emerges as a unified kingdom under Viking rulers" },
+  { "year": 965, "event": "King Harald Bluetooth converts Denmark to Christianity" },
+  { "year": 1013, "event": "Danish rule briefly extends over England and the North Sea" },
+  { "year": 1100, "event": "Medieval monarchy consolidates power and builds stone churches" },
+  { "year": 1397, "event": "Kalmar Union unites Denmark, Norway, and Sweden under one crown" },
+  { "year": 1536, "event": "Denmark adopts Lutheran Protestantism during the Reformation" },
+  { "year": 1645, "event": "Territorial losses reduce Denmark’s regional dominance" },
+  { "year": 1660, "event": "Absolute monarchy is established" },
+  { "year": 1814, "event": "Denmark loses Norway after the Napoleonic Wars" },
+  { "year": 1849, "event": "Constitution establishes a constitutional monarchy" },
+  { "year": 1864, "event": "Defeat by Prussia reshapes Denmark’s modern borders" },
+  { "year": 1940, "event": "Nazi Germany occupies Denmark during World War II" },
+  { "year": 1945, "event": "Denmark is liberated and resumes democratic rule" },
+  { "year": 1973, "event": "Denmark joins the European Economic Community" }
+]

@@ -1,0 +1,20 @@
+[
+  { "year": -9000, "event": "Earliest human settlement in present-day Finland after Ice Age retreat" },
+  { "year": -4000, "event": "Neolithic hunter-gatherer and early farming cultures develop" },
+  { "year": -1500, "event": "Bronze Age trade links Finland to Scandinavia and the Baltic" },
+  { "year": -500, "event": "Finnic cultures establish regional identities and languages" },
+  { "year": 1100, "event": "Swedish influence expands through trade and settlement" },
+  { "year": 1150, "event": "Christianization begins under Swedish rule" },
+  { "year": 1249, "event": "Finland is formally incorporated into the Kingdom of Sweden" },
+  { "year": 1323, "event": "Border treaty defines frontier between Sweden and Novgorod" },
+  { "year": 1550, "event": "Helsinki is founded as a coastal trading town" },
+  { "year": 1640, "event": "University of Turku is established, shaping Finnish education" },
+  { "year": 1700, "event": "Great Northern War devastates Finland" },
+  { "year": 1809, "event": "Finland is ceded to Russia and becomes a Grand Duchy" },
+  { "year": 1863, "event": "Finnish language gains official status, strengthening national identity" },
+  { "year": 1917, "event": "Finland declares independence from Russia" },
+  { "year": 1918, "event": "Civil war determines Finland’s political direction" },
+  { "year": 1939, "event": "Winter War against the Soviet Union defines national resilience" },
+  { "year": 1945, "event": "Postwar neutrality shapes foreign policy and development" },
+  { "year": 1995, "event": "Finland joins the European Union" }
+]

@@ -1,0 +1,20 @@
+[
+  { "year": -11000, "event": "Earliest human settlement in present-day Norway after Ice Age retreat" },
+  { "year": -4000, "event": "Neolithic communities establish coastal fishing and farming settlements" },
+  { "year": -1800, "event": "Nordic Bronze Age culture develops with maritime trade networks" },
+  { "year": -500, "event": "Iron Age societies form regional chieftaincies" },
+  { "year": 793, "event": "Viking Age begins with seaborne raids and exploration" },
+  { "year": 872, "event": "Traditional unification of Norway under Harald Fairhair" },
+  { "year": 1000, "event": "Christianity spreads, reshaping Norwegian society and kingship" },
+  { "year": 1066, "event": "Norwegian Viking expansion era ends after North Sea conflicts" },
+  { "year": 1200, "event": "Norwegian medieval kingdom reaches territorial height" },
+  { "year": 1349, "event": "Black Death devastates population and weakens the kingdom" },
+  { "year": 1397, "event": "Norway enters the Kalmar Union with Denmark and Sweden" },
+  { "year": 1537, "event": "Norway becomes a subordinate kingdom under Danish rule" },
+  { "year": 1814, "event": "Union with Denmark ends; Norway enters union with Sweden" },
+  { "year": 1905, "event": "Norway gains full independence and establishes constitutional monarchy" },
+  { "year": 1940, "event": "Nazi Germany occupies Norway during World War II" },
+  { "year": 1945, "event": "Norway is liberated and restores democratic rule" },
+  { "year": 1969, "event": "North Sea oil discoveries transform the economy" },
+  { "year": 1972, "event": "Norway chooses to remain outside the European Communities" }
+]

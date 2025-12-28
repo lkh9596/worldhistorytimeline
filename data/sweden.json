@@ -1,0 +1,23 @@
+[
+  { "year": -12000, "event": "Earliest human settlement in present-day Sweden after Ice Age retreat" },
+  { "year": -4000, "event": "Neolithic farming communities establish permanent settlements" },
+  { "year": -1800, "event": "Nordic Bronze Age culture flourishes with long-distance trade" },
+  { "year": -500, "event": "Iron Age societies form regional chiefdoms" },
+  { "year": 800, "event": "Viking Age begins, linking Sweden to Baltic and eastern trade routes" },
+  { "year": 1000, "event": "Christianity spreads, reshaping kingship and society" },
+  { "year": 1164, "event": "Archbishopric of Uppsala establishes Sweden’s church structure" },
+  { "year": 1397, "event": "Kalmar Union unites Sweden with Denmark and Norway" },
+  { "year": 1523, "event": "Gustav Vasa leads Sweden out of the Kalmar Union" },
+  { "year": 1527, "event": "Swedish Reformation establishes Lutheran state church" },
+  { "year": 1611, "event": "Sweden emerges as a centralized military state" },
+  { "year": 1630, "event": "Sweden intervenes decisively in the Thirty Years’ War" },
+  { "year": 1648, "event": "Sweden becomes a major Baltic power after the Peace of Westphalia" },
+  { "year": 1700, "event": "Great Northern War begins against rival powers" },
+  { "year": 1721, "event": "Defeat ends Sweden’s era as a great power" },
+  { "year": 1809, "event": "Loss of Finland reshapes Swedish borders and identity" },
+  { "year": 1814, "event": "Union with Norway is established under Swedish crown" },
+  { "year": 1905, "event": "Union with Norway is peacefully dissolved" },
+  { "year": 1917, "event": "Parliamentary democracy becomes firmly established" },
+  { "year": 1939, "event": "Sweden maintains neutrality during World War II" },
+  { "year": 1995, "event": "Sweden joins the European Union" }
+]
