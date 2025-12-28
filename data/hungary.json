@@ -1,0 +1,17 @@
+[
+  { "year": 895, "event": "Magyar tribes settle the Carpathian Basin" },
+  { "year": 1000, "event": "Christian kingdom established under royal coronation" },
+  { "year": 1241, "event": "Mongol invasion devastates the Hungarian kingdom" },
+  { "year": 1301, "event": "Dynastic change reshapes royal authority" },
+  { "year": 1458, "event": "Hungary becomes a Renaissance power in Central Europe" },
+  { "year": 1526, "event": "Ottoman victory fragments the Hungarian state" },
+  { "year": 1541, "event": "Central Hungary falls under Ottoman rule" },
+  { "year": 1699, "event": "Habsburgs expel Ottomans and control Hungary" },
+  { "year": 1848, "event": "National uprising challenges imperial rule" },
+  { "year": 1867, "event": "Hungary gains autonomy within the Austro-Hungarian Empire" },
+  { "year": 1918, "event": "Empire collapses and Hungarian independence declared" },
+  { "year": 1920, "event": "Treaty of Trianon drastically reduces Hungarian territory" },
+  { "year": 1944, "event": "World War II brings occupation and destruction" },
+  { "year": 1949, "event": "Communist rule reshapes politics and cities" },
+  { "year": 1989, "event": "Communist system collapses peacefully" }
+]

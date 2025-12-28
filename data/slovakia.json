@@ -1,0 +1,12 @@
+[
+  { "year": 900, "event": "Slavic principalities form in the Danube region" },
+  { "year": 1000, "event": "Territory incorporated into the Kingdom of Hungary" },
+  { "year": 1241, "event": "Mongol invasion devastates settlements" },
+  { "year": 1526, "event": "Region falls under Habsburg-controlled Hungary" },
+  { "year": 1848, "event": "National revival emerges under imperial rule" },
+  { "year": 1918, "event": "Slovak lands join Czechoslovakia" },
+  { "year": 1939, "event": "World War II reshapes Slovak territory" },
+  { "year": 1948, "event": "Communist rule transforms society and cities" },
+  { "year": 1989, "event": "Communist system collapses peacefully" },
+  { "year": 1993, "event": "Independent Slovakia formed after peaceful split" }
+]

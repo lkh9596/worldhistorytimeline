@@ -1,0 +1,16 @@
+[
+  { "year": 900, "event": "Slavic settlement forms early Bohemian state" },
+  { "year": 1002, "event": "Bohemia integrated into the Holy Roman Empire" },
+  { "year": 1346, "event": "Prague becomes an imperial capital under Charles IV" },
+  { "year": 1419, "event": "Hussite Wars challenge Catholic dominance" },
+  { "year": 1526, "event": "Habsburg rule begins in Bohemia" },
+  { "year": 1620, "event": "Defeat at White Mountain ends Bohemian autonomy" },
+  { "year": 1781, "event": "Religious toleration weakens Catholic monopoly" },
+  { "year": 1848, "event": "National revival challenges imperial authority" },
+  { "year": 1918, "event": "Czechoslovakia formed after World War I" },
+  { "year": 1939, "event": "Nazi occupation dismantles Czechoslovakia" },
+  { "year": 1948, "event": "Communist rule transforms state and society" },
+  { "year": 1968, "event": "Prague Spring suppressed by Warsaw Pact forces" },
+  { "year": 1989, "event": "Velvet Revolution ends communist rule" },
+  { "year": 1993, "event": "Peaceful split creates the Czech Republic" }
+]
