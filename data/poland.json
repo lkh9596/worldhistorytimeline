@@ -10,10 +10,11 @@
   { "year": 1655, "event": "Swedish invasion devastates Polish cities" },
   { "year": 1683, "event": "Polish forces halt Ottoman advance at Vienna" },
   { "year": 1772, "event": "First partition reduces Polish territory" },
-  { "year": 1791, "event": "Europe’s first modern constitution adopted" },
   { "year": 1795, "event": "Poland disappears from the map of Europe" },
   { "year": 1918, "event": "Poland regains independence after World War I" },
   { "year": 1939, "event": "Germany and the Soviet Union invade Poland" },
   { "year": 1944, "event": "Warsaw destroyed after failed uprising" },
-  { "year": 1945, "event": "Borders shift west, reshaping cities and population" }
+  { "year": 1945, "event": "Soviet-backed state established after World War II" },
+  { "year": 1980, "event": "Mass labor movement challenges communist control" },
+  { "year": 1989, "event": "Communist rule ends and independence restored" }
 ]
