@@ -1,0 +1,21 @@
+[
+  { "year": -1500, "event": "Bronze Age cultures emerge on the Korean Peninsula" },
+  { "year": -108, "event": "Han China establishes commanderies in northern Korea" },
+  { "year": 313, "event": "Goguryeo expels Chinese commanderies from the peninsula" },
+  { "year": 372, "event": "Buddhism adopted by Goguryeo" },
+  { "year": 528, "event": "Buddhism adopted by Silla" },
+  { "year": 668, "event": "Silla unifies most of the Korean Peninsula" },
+  { "year": 698, "event": "Balhae forms in northern Korea and Manchuria" },
+  { "year": 918, "event": "Goryeo dynasty unifies Korea" },
+  { "year": 1019, "event": "Goryeo repels Khitan invasions" },
+  { "year": 1231, "event": "Mongol invasions weaken Goryeo sovereignty" },
+  { "year": 1392, "event": "Joseon dynasty replaces Goryeo" },
+  { "year": 1443, "event": "Hangul alphabet created to expand literacy" },
+  { "year": 1592, "event": "Japanese invasions devastate the peninsula" },
+  { "year": 1637, "event": "Joseon becomes tributary to Qing China" },
+  { "year": 1876, "event": "Korea forcibly opened to foreign trade" },
+  { "year": 1910, "event": "Japan annexes Korea" },
+  { "year": 1945, "event": "Japanese rule ends and Korea is divided" },
+  { "year": 1950, "event": "Korean War devastates the peninsula" },
+  { "year": 1953, "event": "Armistice solidifies North–South division" }
+]

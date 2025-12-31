@@ -1,0 +1,21 @@
+[
+  { "year": -14000, "event": "Jomon culture develops early sedentary life and pottery" },
+  { "year": -300, "event": "Yayoi migration introduces wet-rice agriculture and metallurgy" },
+  { "year": 250, "event": "Kofun period forms early state power through elite burial mounds" },
+  { "year": 538, "event": "Buddhism introduced from the Korean Peninsula" },
+  { "year": 645, "event": "Taika Reforms centralize rule on Chinese models" },
+  { "year": 710, "event": "Nara established as Japan’s first permanent capital" },
+  { "year": 794, "event": "Heian period begins with court culture and aristocratic rule" },
+  { "year": 1185, "event": "Kamakura shogunate establishes samurai governance" },
+  { "year": 1274, "event": "Mongol invasions repelled by storms and resistance" },
+  { "year": 1336, "event": "Ashikaga shogunate ushers in feudal decentralization" },
+  { "year": 1467, "event": "Onin War fractures authority and triggers the Sengoku era" },
+  { "year": 1600, "event": "Tokugawa victory unifies Japan under shogunal rule" },
+  { "year": 1639, "event": "Japan adopts isolationist foreign policy" },
+  { "year": 1853, "event": "Western gunboats force Japan’s opening to trade" },
+  { "year": 1868, "event": "Meiji Restoration restores imperial rule and modernizes the state" },
+  { "year": 1895, "event": "Japan emerges as a regional power after victory over China" },
+  { "year": 1905, "event": "Japan defeats Russia and gains international recognition" },
+  { "year": 1945, "event": "World War II ends with Japan’s defeat" },
+  { "year": 1952, "event": "Japan regains sovereignty under a pacifist constitution" }
+]

@@ -1,0 +1,15 @@
+[
+  { "year": -4000, "event": "Austronesian cultures settle Taiwan" },
+  { "year": 1200, "event": "Indigenous societies dominate the island" },
+  { "year": 1624, "event": "Dutch establish colonial rule in southern Taiwan" },
+  { "year": 1626, "event": "Spanish briefly control northern Taiwan" },
+  { "year": 1662, "event": "Zheng Chenggong expels Europeans and founds a Han regime" },
+  { "year": 1683, "event": "Qing dynasty annexes Taiwan" },
+  { "year": 1887, "event": "Taiwan elevated to provincial status under Qing rule" },
+  { "year": 1895, "event": "Japan acquires Taiwan after victory over Qing China" },
+  { "year": 1930, "event": "Japanese modernization reshapes infrastructure and cities" },
+  { "year": 1945, "event": "Japan surrenders and Taiwan transferred to Chinese rule" },
+  { "year": 1949, "event": "Chinese Nationalist government relocates to Taiwan" },
+  { "year": 1987, "event": "Martial law lifted after decades of authoritarian rule" },
+  { "year": 1996, "event": "First direct presidential election held" }
+]

@@ -1,0 +1,18 @@
+[
+  { "year": -3000, "event": "Pastoral nomadic cultures dominate the eastern Eurasian steppe" },
+  { "year": -209, "event": "Xiongnu confederation challenges Han China" },
+  { "year": 552, "event": "Turkic Khaganate controls much of the Mongolian Plateau" },
+  { "year": 744, "event": "Uyghur Khaganate succeeds Turkic rule" },
+  { "year": 907, "event": "Khitan Liao dynasty rules Mongolia and northern China" },
+  { "year": 1206, "event": "Temujin proclaimed Genghis Khan and unites Mongol tribes" },
+  { "year": 1215, "event": "Mongols capture Zhongdu, accelerating continental conquest" },
+  { "year": 1237, "event": "Mongol armies devastate Eastern Europe" },
+  { "year": 1271, "event": "Yuan dynasty proclaimed with rule over China" },
+  { "year": 1294, "event": "Mongol Empire fragments into rival khanates" },
+  { "year": 1368, "event": "Mongols expelled from China by the Ming dynasty" },
+  { "year": 1636, "event": "Inner Mongolia incorporated into the Qing Empire" },
+  { "year": 1691, "event": "Outer Mongolia submits to Qing protection" },
+  { "year": 1911, "event": "Mongolia declares independence after Qing collapse" },
+  { "year": 1924, "event": "Mongolian People’s Republic established" },
+  { "year": 1990, "event": "Peaceful revolution ends socialist rule" }
+]
