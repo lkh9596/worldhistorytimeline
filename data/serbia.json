@@ -1,0 +1,16 @@
+[
+  { "year": 800, "event": "Slavic principalities form in the central Balkans" },
+  { "year": 1217, "event": "Serbia recognized as a medieval kingdom" },
+  { "year": 1346, "event": "Serbian Empire reaches peak under Stefan Dušan" },
+  { "year": 1389, "event": "Battle of Kosovo becomes a defining national symbol" },
+  { "year": 1459, "event": "Ottoman conquest ends medieval Serbian statehood" },
+  { "year": 1557, "event": "Serbian Orthodox Church restored under Ottoman rule" },
+  { "year": 1690, "event": "Great Migration shifts Serbian population northward" },
+  { "year": 1804, "event": "Uprisings begin the Serbian struggle for independence" },
+  { "year": 1878, "event": "Serbia gains international recognition as an independent state" },
+  { "year": 1918, "event": "Serbia becomes core of a new South Slavic kingdom" },
+  { "year": 1941, "event": "World War II brings occupation and heavy losses" },
+  { "year": 1945, "event": "Serbia integrated into socialist Yugoslavia" },
+  { "year": 1992, "event": "Yugoslav breakup isolates Serbia regionally" },
+  { "year": 2006, "event": "Serbia reemerges as an independent state" }
+]

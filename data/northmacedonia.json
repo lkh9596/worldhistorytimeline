@@ -1,0 +1,14 @@
+[
+  { "year": 500, "event": "Late Roman and early Byzantine cities anchor the region" },
+  { "year": 800, "event": "Slavic settlement reshapes the Balkan interior" },
+  { "year": 900, "event": "Region becomes core territory of medieval Bulgaria" },
+  { "year": 1018, "event": "Byzantine reconquest ends Bulgarian imperial rule" },
+  { "year": 1346, "event": "Serbian Empire incorporates Macedonia at its height" },
+  { "year": 1395, "event": "Ottoman conquest transforms towns and trade routes" },
+  { "year": 1600, "event": "Ottoman urban life centers around bazaars and mosques" },
+  { "year": 1878, "event": "National movements grow amid declining Ottoman control" },
+  { "year": 1913, "event": "Balkan Wars divide Macedonia among neighboring states" },
+  { "year": 1918, "event": "Region absorbed into a South Slavic kingdom" },
+  { "year": 1945, "event": "Macedonia established as a republic within Yugoslavia" },
+  { "year": 1991, "event": "Independent state emerges after Yugoslav collapse" }
+]

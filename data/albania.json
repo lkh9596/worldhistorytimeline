@@ -1,0 +1,16 @@
+[
+  { "year": 200, "event": "Illyrian tribes dominate the western Balkan coast" },
+  { "year": 168, "event": "Roman conquest integrates the region into imperial networks" },
+  { "year": 395, "event": "Eastern Roman rule shapes early Christian identity" },
+  { "year": 800, "event": "Mountain communities preserve distinct language and customs" },
+  { "year": 1190, "event": "First Albanian medieval state emerges in coastal regions" },
+  { "year": 1385, "event": "Ottoman expansion reaches Albanian territories" },
+  { "year": 1443, "event": "Skanderbeg leads prolonged resistance against Ottoman rule" },
+  { "year": 1479, "event": "Ottoman conquest incorporates Albania into imperial system" },
+  { "year": 1600, "event": "Religious diversity expands under Ottoman administration" },
+  { "year": 1878, "event": "National awakening asserts Albanian identity" },
+  { "year": 1912, "event": "Albania declares independence as Ottoman rule collapses" },
+  { "year": 1939, "event": "World War II occupation disrupts state development" },
+  { "year": 1946, "event": "Communist regime isolates Albania from Europe" },
+  { "year": 1991, "event": "Communist system collapses, reopening the country" }
+]

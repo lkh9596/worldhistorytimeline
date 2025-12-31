@@ -1,0 +1,15 @@
+[
+  { "year": 681, "event": "First Bulgarian Empire established south of the Danube" },
+  { "year": 864, "event": "Christianization anchors Bulgaria in Orthodox Europe" },
+  { "year": 900, "event": "Cyrillic script spreads Slavic literacy and culture" },
+  { "year": 1018, "event": "Byzantine conquest ends the First Bulgarian Empire" },
+  { "year": 1185, "event": "Second Bulgarian Empire restores regional power" },
+  { "year": 1396, "event": "Ottoman conquest ends medieval Bulgarian statehood" },
+  { "year": 1500, "event": "Ottoman rule reshapes cities and religious landscape" },
+  { "year": 1762, "event": "National revival rekindles Bulgarian identity" },
+  { "year": 1878, "event": "Autonomous Bulgaria emerges after Ottoman defeat" },
+  { "year": 1908, "event": "Full independence proclaimed from Ottoman authority" },
+  { "year": 1913, "event": "Balkan Wars redefine borders and ambitions" },
+  { "year": 1944, "event": "Soviet-backed regime takes control after World War II" },
+  { "year": 1989, "event": "Communist rule collapses peacefully" }
+]
