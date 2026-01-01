@@ -1,0 +1,14 @@
+[
+  { "year": -3000, "event": "Austronesian peoples settle the Malay Peninsula and Borneo" },
+  { "year": 300, "event": "Indianized kingdoms spread Hindu-Buddhist culture" },
+  { "year": 700, "event": "Srivijaya dominates regional maritime trade routes" },
+  { "year": 1400, "event": "Malacca Sultanate emerges as a major Islamic trading hub" },
+  { "year": 1511, "event": "Portuguese capture Malacca" },
+  { "year": 1641, "event": "Dutch replace Portuguese control of Malacca" },
+  { "year": 1786, "event": "British establish Penang as a trading post" },
+  { "year": 1824, "event": "Anglo-Dutch Treaty divides Malay and Indonesian spheres" },
+  { "year": 1874, "event": "British expand indirect rule over Malay states" },
+  { "year": 1942, "event": "Japanese occupation dismantles British authority" },
+  { "year": 1957, "event": "Federation of Malaya gains independence" },
+  { "year": 1963, "event": "Malaysia formed with Sabah and Sarawak" }
+]

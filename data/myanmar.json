@@ -1,0 +1,14 @@
+[
+  { "year": -2000, "event": "Early Tibeto-Burman cultures settle the Irrawaddy basin" },
+  { "year": 200, "event": "Pyu city-states flourish along inland trade routes" },
+  { "year": 849, "event": "Bagan founded as a Burman power center" },
+  { "year": 1044, "event": "Anawrahta unifies Upper Burma and adopts Theravada Buddhism" },
+  { "year": 1287, "event": "Mongol invasions lead to the collapse of Bagan" },
+  { "year": 1531, "event": "Toungoo dynasty reunifies Myanmar and expands regionally" },
+  { "year": 1752, "event": "Konbaung dynasty rises after civil war" },
+  { "year": 1767, "event": "Burmese armies sack Ayutthaya" },
+  { "year": 1826, "event": "British annex Lower Burma after the First Anglo-Burmese War" },
+  { "year": 1886, "event": "Britain fully annexes Burma into British India" },
+  { "year": 1942, "event": "Japanese occupation disrupts British colonial rule" },
+  { "year": 1948, "event": "Burma gains independence from Britain" }
+]

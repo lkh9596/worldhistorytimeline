@@ -1,0 +1,16 @@
+[
+  { "year": -4000, "event": "Early Austroasiatic communities settle the Mekong basin" },
+  { "year": 100, "event": "Funan emerges as an early maritime trade kingdom" },
+  { "year": 550, "event": "Chenla replaces Funan as the dominant inland power" },
+  { "year": 802, "event": "Jayavarman II founds the Khmer Empire" },
+  { "year": 889, "event": "Yasovarman I establishes Angkor as the imperial capital" },
+  { "year": 1113, "event": "Angkor Wat constructed under Suryavarman II" },
+  { "year": 1181, "event": "Jayavarman VII expands the empire and promotes Mahayana Buddhism" },
+  { "year": 1431, "event": "Ayutthaya sacks Angkor, ending imperial dominance" },
+  { "year": 1863, "event": "Cambodia becomes a French protectorate" },
+  { "year": 1945, "event": "Japanese occupation disrupts French colonial rule" },
+  { "year": 1953, "event": "Cambodia gains independence from France" },
+  { "year": 1975, "event": "Khmer Rouge seizes Phnom Penh" },
+  { "year": 1979, "event": "Vietnamese invasion ends Khmer Rouge rule" },
+  { "year": 1993, "event": "Constitutional monarchy restored after UN intervention" }
+]

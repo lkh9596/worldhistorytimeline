@@ -1,0 +1,16 @@
+[
+  { "year": -2000, "event": "Austronesian migrations settle the Indonesian archipelago" },
+  { "year": 400, "event": "Indianized kingdoms introduce Hindu-Buddhist culture" },
+  { "year": 650, "event": "Srivijaya emerges as a maritime trading empire" },
+  { "year": 750, "event": "Sailendra dynasty builds Borobudur in central Java" },
+  { "year": 1293, "event": "Majapahit founded as a Javanese imperial state" },
+  { "year": 1350, "event": "Majapahit dominates much of maritime Southeast Asia" },
+  { "year": 1400, "event": "Islam spreads through coastal trade networks" },
+  { "year": 1511, "event": "Portuguese capture Malacca and enter regional trade" },
+  { "year": 1602, "event": "Dutch East India Company establishes monopoly power" },
+  { "year": 1800, "event": "Dutch colonial state replaces company rule" },
+  { "year": 1908, "event": "Nationalist movements begin organized resistance" },
+  { "year": 1942, "event": "Japanese occupation dismantles Dutch authority" },
+  { "year": 1945, "event": "Indonesia declares independence" },
+  { "year": 1949, "event": "Dutch formally recognize Indonesian sovereignty" }
+]

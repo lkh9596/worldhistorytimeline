@@ -1,0 +1,13 @@
+[
+  { "year": -4000, "event": "Austronesian settlers populate the Philippine archipelago" },
+  { "year": 900, "event": "Maritime polities trade with China and Southeast Asia" },
+  { "year": 1521, "event": "Spanish expedition reaches the Philippines" },
+  { "year": 1565, "event": "Spain establishes permanent colonial rule" },
+  { "year": 1571, "event": "Manila becomes a global galleon trade hub" },
+  { "year": 1762, "event": "British briefly occupy Manila during global war" },
+  { "year": 1896, "event": "Philippine Revolution erupts against Spanish rule" },
+  { "year": 1898, "event": "Spain cedes the Philippines to the United States" },
+  { "year": 1902, "event": "American colonial administration consolidates control" },
+  { "year": 1942, "event": "Japan occupies the Philippines during World War II" },
+  { "year": 1946, "event": "Philippines gains independence from the United States" }
+]

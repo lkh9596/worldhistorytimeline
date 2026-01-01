@@ -1,0 +1,16 @@
+[
+  { "year": -2000, "event": "Early Austroasiatic cultures emerge in the Red River Delta" },
+  { "year": -111, "event": "Han China annexes northern Vietnam" },
+  { "year": 40, "event": "Trung Sisters lead a rebellion against Chinese rule" },
+  { "year": 939, "event": "Vietnam regains independence after defeating Southern Han forces" },
+  { "year": 1010, "event": "Ly dynasty establishes Hanoi as the imperial capital" },
+  { "year": 1225, "event": "Tran dynasty consolidates a centralized Vietnamese state" },
+  { "year": 1288, "event": "Vietnam repels Mongol invasions" },
+  { "year": 1407, "event": "Ming China briefly reoccupies Vietnam" },
+  { "year": 1471, "event": "Vietnam destroys Champa and expands southward" },
+  { "year": 1802, "event": "Nguyen dynasty unifies Vietnam" },
+  { "year": 1887, "event": "France incorporates Vietnam into Indochina" },
+  { "year": 1945, "event": "Vietnam declares independence after Japanese surrender" },
+  { "year": 1954, "event": "French rule ends after defeat at Dien Bien Phu" },
+  { "year": 1975, "event": "Vietnam reunified after prolonged warfare" }
+]
