@@ -1,0 +1,16 @@
+[
+  { "year": -3000, "event": "Early human settlements emerge on the island" },
+  { "year": -543, "event": "Legendary founding of Sinhala civilization begins" },
+  { "year": -377, "event": "Anuradhapura established as an early capital" },
+  { "year": -247, "event": "Buddhism introduced under Mauryan influence" },
+  { "year": 100, "event": "Sri Lanka becomes a hub of Indian Ocean trade" },
+  { "year": 993, "event": "Chola Empire invades and controls northern Sri Lanka" },
+  { "year": 1070, "event": "Sinhala rule restored under Vijayabahu I" },
+  { "year": 1153, "event": "Polonnaruwa period reaches political and cultural peak" },
+  { "year": 1215, "event": "Political fragmentation shifts power southward" },
+  { "year": 1505, "event": "Portuguese arrive and establish coastal control" },
+  { "year": 1658, "event": "Dutch replace Portuguese dominance" },
+  { "year": 1815, "event": "British annex the Kandyan Kingdom" },
+  { "year": 1948, "event": "Sri Lanka gains independence from Britain" },
+  { "year": 1972, "event": "Country becomes a republic" }
+]

@@ -1,0 +1,14 @@
+[
+  { "year": -2000, "event": "Early agricultural communities settle the Ganges–Brahmaputra delta" },
+  { "year": -600, "event": "Gangaridai region emerges as a powerful delta polity" },
+  { "year": -326, "event": "Alexander’s campaign reaches the eastern edge of the subcontinent" },
+  { "year": 350, "event": "Gupta influence integrates Bengal into classical Indian culture" },
+  { "year": 750, "event": "Pala Empire promotes Buddhism and regional autonomy" },
+  { "year": 1204, "event": "Turkic conquest introduces Muslim rule in Bengal" },
+  { "year": 1352, "event": "Independent Bengal Sultanate established" },
+  { "year": 1576, "event": "Mughal Empire incorporates Bengal" },
+  { "year": 1757, "event": "British East India Company gains control after Plassey" },
+  { "year": 1858, "event": "British Crown consolidates colonial administration" },
+  { "year": 1947, "event": "Bengal partition creates East Pakistan" },
+  { "year": 1971, "event": "Bangladesh gains independence after liberation war" }
+]

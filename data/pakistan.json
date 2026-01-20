@@ -1,0 +1,20 @@
+[
+  { "year": -7000, "event": "Neolithic farming communities develop at Mehrgarh" },
+  { "year": -2600, "event": "Indus Valley Civilization flourishes along the Indus River" },
+  { "year": -1900, "event": "Indus urban centers decline amid environmental change" },
+  { "year": -1500, "event": "Indo-Aryan culture influences northern South Asia" },
+  { "year": -600, "event": "Achaemenid Empire incorporates Indus territories" },
+  { "year": -326, "event": "Alexander the Great invades the Indus region" },
+  { "year": -305, "event": "Maurya Empire absorbs the Indus basin" },
+  { "year": 50, "event": "Kushan Empire links the region to Silk Road trade" },
+  { "year": 712, "event": "Arab conquest of Sindh introduces Islam" },
+  { "year": 1000, "event": "Ghaznavid invasions integrate the region into Islamic empires" },
+  { "year": 1206, "event": "Delhi Sultanate controls much of present-day Pakistan" },
+  { "year": 1398, "event": "Timur invades and devastates Indus cities" },
+  { "year": 1526, "event": "Mughal Empire incorporates the Indus heartland" },
+  { "year": 1739, "event": "Nader Shah sacks Lahore during regional collapse" },
+  { "year": 1849, "event": "British annex Punjab after Sikh defeat" },
+  { "year": 1858, "event": "British Crown consolidates rule over the region" },
+  { "year": 1906, "event": "All-India Muslim League founded" },
+  { "year": 1947, "event": "Pakistan established during the partition of British India" }
+]
